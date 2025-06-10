@@ -1,0 +1,79 @@
+JOB CARD
+REV DATE: May
+AIRBUS
+01/2022
+AMM - GOW - A318/A319/A320/A321
+TASK:
+33-51-38-000-002-A
+Tail Number - MSN -
+TITLE:
+33-51-38-04 CONF 00
+FSN:
+33-51-38-000-002-A - Removal of the Battery of the
+VT-WJQ - 09375 - 142
+Emergency Power Supply Unit (EPSU)
+MECH.
+INSP.
+(4)
+On Flight Attendant Panel (FAP) 120RH, make sure that the
+EMER pushbutton and its internal light are off.
+SUBTASK 33-51-38-865-055-A
+B.
+Open, safety and tag this(these) circuit breaker(s):
+10
+PANEL
+DESIGNATION
+SIN
+LOGATION
+LIGHTING/EMER LT/
+49VU
+2WL
+H06
+CABIN
+LIGHTING/EMER LT/
+49VU
+1WL
+H05
+CABIN
+LIGHTING/CABIN/EMER/
+122VU
+3WL
+V07
+LT
+SUBTASK 33-51-38-010-051-C
+C.
+Get Access
+(1)
+Put the STEPLADDER 1.5 M (5 FT) in position:
+(a)
+FOR 10WL (POWER-EMERGENCY SUPPLY)
+at the left forward passenger/crew door
+(b)
+FOR 13WL (EPSU)
+between the aft passenger/crew doors.
+(2)
+Remove the ceiling panel to get access to the emergency
+power supply unit:
+(a)
+FOR 10WL (POWER-EMERGENCY SUPPLY)
+remove 221BC at the left forward passenger/crew door
+Ref. AMM TASK 25-23-42-000-001.
+10
+x
+(3)
+Remove the lower sidewall panel to get access to the
+emergency power supply unit:
+(a)
+FOR 11WL (EPSU)
+remove 241KW at the left emergency exit(s) Ref. AMM
+TASK 25-23-44-000-001.
+JCP Title: VT-WIQ
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 3 of 5
+PRINT DATE: Jun 05/2022
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+GOW
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+379
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+RELEASE TO SERVICE

@@ -1,0 +1,79 @@
+REV DATE: May
+JOB CARD
+AIRBUS
+01/2022
+AMM - GOW - A318/A319/A320/A321
+TASK:
+33-51-38-400-002-A
+Tail Number - MSN -
+TITLE:
+33-51-38-04 CONF 00
+FSN:
+33-51-38-400-002-A - Installation of the Battery of the
+VT-WJQ - 09375 - 142
+Emergency Power Supply Unit (EPSU)
+MECH.
+INSP.
+B.
+Remove the safety clip(s) and the tag(s) and close this(these) circuit
+breaker(s):
+PANEL
+DESIGNATION
+FIN
+LOCATION
+LIGHTING/EMER LT/
+49VU
+2WL
+H06
+W
+CABIN
+&
+LIGHTING/EMER LT/
+49VU
+1WL
+H05
+CABIN
+LIGHTING/CABIN/EMER/
+122VU
+3WL
+V07
+LT
+SUBTASK 33-51-38-740-053-A
+C.
+BITE Test
+(1)
+Do the operational check of the EPSU thru BITE check Ref.
+AMM TASK 33-51-00-710-001.
+@
+5.
+Close-up
+SUBTASK 33-51-38-410-053-C
+A.
+Close Access
+(1)
+Make sure that the work area is clean and clear of tools and
+other items.
+(2) Install the ceiling panel:
+(a)
+FOR 10WL (POWER-EMERGENCY SUPPLY)
+install 221BC at the left forward passenger/crew door
+Ref. AMM TASK 25-23-42-400-001.
+(3)
+Install the lower sidewall panel:
+P
+&
+(a)
+FOR 11WL (EPSU)
+install 241KW at the left emergency exit(s) Ref. AMM
+TASK 25-23-44-400-001.
+(b) FOR 12WL (EPSU)
+JCP Title: VT-WJQ
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 6 of 8
+PRINT DATE: Jun 05/2022
+CERTIFIES THAT THE TASK/INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+GOW
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+379
+RELEASE TO SERVICE

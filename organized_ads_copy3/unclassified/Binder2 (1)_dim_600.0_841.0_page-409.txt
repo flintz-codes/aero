@@ -1,0 +1,44 @@
+AIRWORTHINESS DIRECTIVE
+DEPARTMENT
+DOMINIST
+SINON
+Aircraft Certification Service
+U.S. Department
+of Transportation
+Washington, DC
+Federal Aviation
+Administration
+We post ADs on the internet at "www.fau.gov"
+The following Airwortniness Directive issued by the Federal Aviation Administration in accordance with the provisions of Title 14 of the Code of Federal Regulations (14 CFR) part 39
+applies to an aircraft model of which our records indicate you may be the registered owner. Airworthiness Directives affect aviation safety and are regulations which require immediate
+attention You are cautioned that no person may operate an aircraft to which an Airworthiness Directive applies, except in accordance with the requirements of the Airworthiness
+Directive (reference 4 CFR part 39. suppart 39 3)
+2002-24-51 Boeing: Amendment 39-12992. Docket 2002-NM-309-AD.
+Applicability: Model 737-600, 700, - 700C, - -800, and -900 series airplanes; Model 747 series
+airplanes; and Model 757 series airplanes; certificated in any category.
+Compliance: Required as indicated, unless accomplished previously.
+To require the flightcrew to maintain certain minimum fuel levels in the center fuel tanks, and to
+prohibit the use of the horizontal stabilizer fuel tank (for Model 747-400 series airplanes) and certain
+center auxiliary fuel tanks (on Model 747 series airplanes). accomplish the following:
+Note 1: Accomplishment of the actions required by paragraphs (a) through (d) of AD 2002-19-
+52. amendment 39-12900. is acceptable for compliance with the requirements of paragraphs (b)
+through (e) of this AD. This AD does not require that those actions be repeated unless the terminating
+actions specified in paragraphs (g) and (h) of AD 2002-19-52 have been accomplished and the AFM
+revisions and placard(s) have been removed.
+(a) Accomplishment of the terminating actions specified in paragraphs (g) and (h) of AD 2002-
+19-52, amendment 39-12900, does not allow removal of the AFM revisions required by paragraphs
+(a), (b), (c), and (d) of AD 2002-19-52, or paragraphs (b), (c). (d). and (e) of this AD.
+Airplane Flight Manual (AFM) Revision: Model 737-600, -700, -700C, -800, and -900
+(b) For Model 737-600. - -700, - 700C, -800, and -900 series airplanes: Within 4 days after receipt
+of this AD. revise the Limitations Section of the AFM to include the following (this may be
+accomplished by inserting a copy of this AD into the AFM):
+"Certificate Limitations
+The center tank fuel pumps must be OFF for takeoff if center tank fuel is less
+than 5,000 pounds (2,300 kilograms) with the airplane readied for initial taxi.
+Both center tank fuel pump switches must be selected Off when center tank fuel
+quantity reaches approximately 1,000 pounds (500 kilograms) during climb and
+cruise or 3,000 pounds (1,400 kilograms) during descent and landing. The fuel
+pumps must be positioned Off at the first indication of fuel pump low pressure.
+The CWT fuel quantity indication system must be operative to dispatch with
+CWT mission fuel.
+5

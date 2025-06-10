@@ -1,0 +1,133 @@
+B737-800/900 ENGINE (CFM56-7B)
+spiceJet
+ENGINE REMOVAL / INSTALLATION SCHEDULE
+DOCUMENT NO.
+B737/72/EC/03
+REV 0
+S.NO
+TASK DESCRIPTION
+AMM REFERENCE
+TECH
+CS
+Remove the DO-NOT-OPERATE tag from the HYD PUMPS ENG
+MGAT
+15
+switch on the pilot's overhead panel, P5, for the applicable
+M
+powerplant.
+MR49
+019
+Pr.
+MGAT
+a
+Supply Electrical Power
+24-22-00-860-811
+7
+005
+16
+Remove the DO-NOT-OPERATE tag from the BAT switch on the
+by
+MGAT
+b
+pilot's overhead panel, P5.
+Pr.
+005
+17
+RESET THE FMCS CDU
+On the FMCS CDU in the flight compartment, get access to the
+GAT
+Configuration Report as follows:
+Pr
+005
+i
+Push the INIT/REF button.
+MGAT
+pr
+of
+Push the MAINT button.
+005
+ii
+iii
+pr.
+7
+MGAT
+Push the ENGINE button
+005
+iv
+Push the ENGINE 1 / ENGINE 2 button for the applicable engine.
+pr.
+of
+MGAT
+005
+V
+Push the IDENTICONFIG button.
+pr
+7
+MGAT
+vi
+Push the ENG S/N button.
+pr.
+7
+005
+a
+vii
+Write the new engine serial number in the FMCS CDU.
+pr.
+7
+MIGHT
+CAUTION:
+AFTER THE CONTINUE BUTTON IS PUSHED, DO NOT PUSH THE NIT/ REF BUTTON OR REMOVE POWER FROM THE EEC
+CHANNELS. IF YOU DO, YOU COULD CORRUPT THE NON-VOLATILE MEMORY IN THE EEC. DAMAGE TO EQUIPMENT CAN
+OCCUR.
+viii
+Push the CONTINUE button.
+Pr.
+MGA
+000
+NOTE:
+AFTER APPROXIMATELY 10 SECONDS, THE IDENT/CONFIG SCREEN SHOWS. MAKE SURE THE NEW ENGINE SERIAL
+NUMBER IS CORRECT.
+For the applicable engine, do these steps to erase all stored faults in
+the EEC:
+i
+Push the ERASE button.
+MGAT
+005
+CAUTION: AFTER THE ERASE ALL BUTTON IS PUSHED, DO NOT PUSH THE INIT/ REF BUTTON OR REMOVE POWER
+b
+FROM THE EEC CHANNELS. IF YOU DO, YOU COULD CORRUPT THE NON-VOLATILE MEMORY IN THE EEC. DAMAGE TO
+EQUIPMENT CAN OCCUR.
+ii
+Pr
+MGA
+Push the ERASE ALL button.
+my
+005
+NOTE: AFTER APPROXIMATELY 10 SECONDS, THE IDENT/CONFIG SCREEN SHOWS. MAKE SURE THE NEW ENGINE
+SERIAL NUMBER IS CORRECT.
+Make sure the engine thrust rating shown on the IDENTICONFIG
+screen is correct (as per Pin programming sheet & Intermix).
+Pr.
+by
+MGAT
+18
+EO
+-
+005
+RECORD THE EO NUMBER for Intermix,
+EO WILL BE ISSUED FOR INTERMIX, IF REQUIRED.
+MGAT
+For the applicable engine, do this task: Engine Exceedance Page
+pr
+my
+a
+005
+19
+Check,
+b
+If you find Exceedances, reset them.
+2002
+my
+MGAT
+005
+Page 45 of 78

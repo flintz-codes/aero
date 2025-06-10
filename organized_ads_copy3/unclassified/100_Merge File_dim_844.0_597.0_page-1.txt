@@ -1,0 +1,100 @@
+1. Approving competent Authority / Country
+2.
+AUTHORISED RELEASE CERTIFICATE
+3. Form Tracking Number
+Autorité compétente / Pays
+N° de repère du Formulaire
+EASA FORM 1
+DIRECTION GÉNÉRALE
+DE L'AVIATION CIVILE / FRANCE
+Certificat libératoire autorisé / Formulaire 1 de l'EASA
+S190005553-0010-0001-F
+4. Organisation Name and Address
+LIEBHERR-AEROSPACE TOULOUSE SAS
+5. Work Order / Contract / Invoice
+Nom et adresse de l'organisme
+Bon de commande / Contrat / Facture
+408, avenue des Etats-Unis B.P. 52010
+F 31016 TOULOUSE CEDEX 2 FRANCE
+252250955
+6. Item
+7. Description
+8. Part No.
+9. Qty
+10. Serial No.
+11. Status/Work
+Item
+Description
+N° de pièce
+Qté
+N° série
+Etat / Travaux
+1
+SENSOR-PRESSURE
+25002A010001
+1
+70653B-01074
+Inspected/Tested
+12. Remarks / Remarques
+See : INSPECTION ANALYSIS AND CORRECTIVE ACTION REPORT N°3008991 dated 16 Aug 2021
+ACTION Inspected/Tested
+Approved data CMM 36-12-95 Rev 2 dated 30 Jun 2019
+Dual-release
+The work identified in Block 11 and described herein has been accomplished in accordance with 14 CFR part
+43 and in respect to that work, the items are approved for release or return to service under certificate n°
+B8EY828J
+13a. Certifies that the items identified above were manufactured in conformity to:
+14a.
+Part-145.A.50 Release to Service
+Other regulation specified in block 12
+X
+Certifie que les eléments identifiés ci-dessus ont été fabriqués conformément aux
+Approbation pour remise en service
+Autre réglementation précisée en case 12
+selon Partie 145.A.50
+approved design data and are in condition for safe operation
+données de conception approuvées et sont en état de fonctionner en toute sécurité
+Certifies that unless otherwise specified in block 12, the work identified in block 11 and described in block 12 was accomplished
+in
+accordance with Part-145 and in respect to that work the items are considered ready for release to service.
+specified in block 12
+Certifié que, sauf indication contraire spécifiée en case 12. les travaux identifiés en case 11 et décrits en case 12 ont été réalisés
+cifiées en case 12
+conformément à la Partie 145 et qu'au vu de ces travaux, les pièces sont considérées prêtes à la remise en service.
+FRA W86665 19.08.21 14:46
+1
+13c. Approval / Authorisation Number
+14b. Authorised Signature / Signature autorisée
+14c. Approval / Authorisation Number
+Certific.
+Numéro d'agrément d'authorisation
+Numéro d'agrément / d'authorisation
+Jean-Gilles GATT
+Sticker
+Electronic Signature on File
+FR.145.0071
+1
+13e. Date (dd mmm yyyy) / (ii mmm aaaa)
+14d. Name / Nom
+14e. Date (dd mmm yyyy) / (ii mmm aaaa)
+682292
+Jean-Gilles GATT
+LTS
+485
+CERTIFYING INSPECTOR
+TZ
+HABILITATION N°
+17 AUG 2021
+User Installer Responsibilities
+Responsabilités de l'utilisateur / installateur
+This certificate does not automatically constitute authority to install the item(s). Where the user/installer performs work in accordance with
+Ce document ne constitue pas forcément l'autorisation d'installer l'(es) item(s). Quand l'utilisateur/installeur travaille selon les
+regulations of an airworthiness authority different than the airworthiness authority specified in block 1. it is essential that the user/installer
+réglementations d'une autorité de navigabilité différente de l'autorité de navigabilité mentionnée dans la case 1. il est essentiel que
+ensures that his/her airworthiness authority accepts items from the airworthiness authority specified in block 1. Statements in blocks 13a
+l'utilisateur/installeur s'assure que son autorité de navigabilité accepte les items libérés par l'autorité de navigabilité mentionnée dans la case
+and 14a do not constitue installation certification. In all cases aircraft maintenance records must contain an installation certification issued in 1 Les indications portées en cases 13a et 14a ne constituent pas une certification de montage. Dans tous les cas le dossier d'entretien de
+accordance with the national regulations by the user/installer before the aircraft may be flown.
+l'aéronet doit contenir une certification d'installation délivrée conformément aux règlements nationaux par l'utilisateur/installateur avant que
+l'aéronef puisse voler.
+EASA Form 1-MF/CAO/145 Issue 3 / Formulaire 1-MF/CAO/145 de l'EASA - Edition 3

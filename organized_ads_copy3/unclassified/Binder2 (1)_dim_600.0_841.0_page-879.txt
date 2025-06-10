@@ -1,0 +1,40 @@
+AVAILA
+AIRWORTHINESS DIRECTIVE
+FAA
+OMINISTRE
+Aircraft Certification Service
+www.faa.gov/aircraft/safety/alerts/
+www.gpoaccess.gov/fr/advanced.htm
+2008-24-05 Boeing: Amendment 39-15745. Docket No. FAA-2008-0152; Directorate Identifier
+2007-NM-348-AD.
+Effective Date
+(a) This airworthiness directive (AD) is effective December 30, 2008.
+Affected ADs
+(b) None.
+Applicability
+(c) This AD applies to the Boeing airplanes identified in paragraphs (c)(1) and (c)(2) of this AD,
+certificated in any category.
+(1) Model 737-400 and -500 series airplanes as identified in Boeing Alert Service Bulletin 737-
+30A 1059, dated September 10, 2007.
+(2) Model 737-600, -700, -700C, -800, and -900 series airplanes as identified in Boeing Service
+Bulletin 737-30A1057, Revision 1, dated October 31, 2007.
+Unsafe Condition
+(d) This AD results from two reports that the left and right windshield wipers stopped working in
+flight. We are issuing this AD to prevent failure of the windshield wipers in wet weather, which could
+result in decreased visibility for the flightcrew.
+Compliance
+(e) Comply with this AD within the compliance times specified, unless already done.
+Inspection and Corrective Actions if Necessary
+(f) Except as provided by paragraph (g) of this AD: Within 60 months after the effective date of
+this AD, inspect to determine the part number and serial number of the windshield wiper motors for
+the pilot's and first officer's windshields, and do all applicable corrective actions, by accomplishing
+all of the applicable actions specified in the Accomplishment Instructions of Boeing Alert Service
+Bulletin 737-30A1059, dated September 10, 2007 (for Model 737-400 and -500 series airplanes); or
+Boeing Service Bulletin 737-30A1057, Revision 1, dated October 31, 2007 (for Model 737-600, -
+700, -700C, -800, and -900 series airplanes); as applicable. A review of airplane maintenance records
+is acceptable in lieu of the inspection required by paragraph (f) of this AD if the part number and
+serial number of the windshield wiper motors can be conclusively determined from that review.
+Following the inspection or records review, as applicable. for any windshield wiper motor that is
+found not to be affected by the requirements of this AD, re-identifying the part number is not
+required.
+8

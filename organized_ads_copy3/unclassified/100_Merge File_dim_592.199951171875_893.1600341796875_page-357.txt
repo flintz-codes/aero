@@ -1,0 +1,109 @@
+JOB CARD
+REV DATE: May 01/2022
+AIRBUS
+AMM - GOW - A318/A319/A320/A321
+TASK:
+32-41-11-400-006-A
+Tail Number MSN FSN:
+TITLE:
+32-41-11-04 CONF 00
+VT-WJQ 09375 142
+32-41-11-400-006-A - Installation of the MLG Wheel
+MECH.
+INSP.
+4
+NUT
+32-11-13-01 ITEM 210
+5
+PIN
+32-11-13-03 ITEM 200
+4
+NUT
+32-11-13-03 ITEM 210
+@
+5
+PIN
+32-11-85-61 ITEM 200
+4
+NUT
+32-11-85-61 ITEM 210
+E.
+Referenced Information
+STATEON
+Ref. 07-11-00-581-001-A
+Lifting for Aircraft Maintenance Operations
+Ref. 07-11-00-586-002-A
+Lowering of the Aircraft for Maintenance Operations
+Ref. 07-12-00-582-002-A
+Jacking of the Main Landing Gear
+Ref. 12-14-32-614-001-A
+Nitrogen Filling of the Tires
+Ref. 29-10-00-863-002-A
+Pressurize the Yellow Hydraulic System with a Hydraulic Ground Power-
+Cart
+Ref. 29-24-00-863-001-A
+Pressurize the Yellow Hydraulic System with the Electric Pump
+Ref. 32-00-00-081-001-A
+Removal of the Safety Devices from the Landing Gears
+Ref. 32-00-00-481-001-A
+Installation of the Safety Devices on the Landing Gears
+Ref. 32-41-00-210-003-A
+Functional Check of Tire Pressures
+Ref. 32-41-00-910-001-A
+Tire Mixability Precautions
+Ref. 32-42-27-000-001-A
+Removal of the Brake
+** ON A/C FSN 012-152
+Ref. 32-42-27-210-006-A
+Inspection/Check of the Brake with the Wheel Removed
+4
+** ON A/C FSN ALL
+Ref. 32-42-27-400-001-A
+Installation of the Brake
+** ON A/C FSN 012-152
+Ref. 32-48-00-720-001-A
+Functional Test of the Brake Fans
+W
+** ON A/C FSN ALL
+Ref. 32-48-51-400-005-A
+Installation of the Fan Assy
+Ref. 12-22-00-00
+LUBRICATION - DESCRIPTION AND OPERATION
+Ref. Fig. Main Gear Wheel
+3.
+Job Set-up
+SUBTASK 32-41-11-941-097-A
+A.
+Safety Precautions
+(1)
+Q
+Make sure that the warning notice is in position in the cockpit to tell persons not to operate the landing
+gear.
+(2)
+Make sure that the wheel chocks are in position.
+(3)
+Make sure that the safety devices are installed on the landing gears Ref. AMM TASK 32-00-00-481-001.
+SUBTASK 32-41-11-865-115-A
+B.
+Make sure that this (these) circuit breaker(s) is (are) open, safetied and tagged:
+121VU
+HYDRAULIC/BRK FAN/WHEELS/3 AND 4
+2GS
+L35
+21VU
+HYDRAULIC/BRK FAN/WHEELS/1 AND 2
+1GS
+L32
+121VU
+HYDRAULIC/BRK/FAN/CTU
+3GS
+M32
+JCP Title: insta
+CERTIFICATE OF TASK/INSPECTION COMPLETION:
+Page of 7
+PRINT DATE: Jun 22/2022
+GOW
+CERTIFIES THAT THE TASK /INSPECTION HAS BEEN COMPLETED TO THE REQUIRED
+272
+STANDARD AND SUPPORTS THE FINAL MAINTENANCE RELEASE/CERTIFICATE OF
+RELEASE TO SERVICE

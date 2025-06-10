@@ -1,0 +1,62 @@
+BOEING
+ROJ
+737-600/700/800/900
+TASK CARDS
+DATE
+TAIL NUMBER
+STATION
+AIRLINE CARD NO
+BOEING CARD NO.
+25-120-00-01
+MECH
+INSP
+TASK 25-40-08-200-801
+1. Lavatory Waste Compartment Inspection
+(Figure 1)
+A. General
+(1) This procedure is a scheduled maintenance task.
+ROJ 537, 825, 826
+B. Waste Compartment Door Inspection Procedure
+ROJ 537, 825, 826; LAVATORIES WITH AN INNER WASTE COMPARTMENT DOOR
+SUBTASK 25-40-08-210-001
+(1) Do these steps for lavatories with an inner waste compartment door and an outer
+waste compartment door to make sure the waste compartment doors close
+correctly:
+(a) Open the outer waste compartment door.
+(b) Open the inner waste compartment door and release it.
+1) Make sure the springs close the inner door without your help.
+(c) Make sure the inner door is not bent or blocked such that it does not close fully.
+It must close tightly to make sure it can contain a fire.
+(d) Close the outer waste compartment door.
+(
+1) Make sure the latch holds the outer door closed.
+ROJ 537, 825, 826; LAVATORIES WITHOUT AN INNER WASTE COMPARTMENT DOOR
+SUBTASK 25-40-08-800-001
+(2) Do these steps for lavatories that do not have an inner waste compartment doar to
+make sure the outer waste compartment door closes correctly.
+111
+(a) Open the waste compartment door.
+(b) Make sure the door and seals are not damaged or blocked SO that it does not
+fully close.
+NOTE: The door must closely tightly to make sure that it can contain a fire.
+NOTE: Some doors have a door plate with springs behind it instead of a
+visible seal.
+(c) Close the waste compartment door.
+(d) Make sure the waste compartment door latches correctly and holds the door
+securely closed.
+ROJ 001-005, 008-010, 015-024, 101-106, 810, 811, 814-822, 827, 829. 887, 888, 913-999
+C. Waste Compartment Door Inspection Procedure
+SUBTASK 25-40-08-210-003
+(1) Do these steps to make sure the door closes tightly:
+(a) Pull the latch at the bottom of the door to open the door.
+EFFECTIVITY
+SOURCE
+LAVATORY WASTE COMPARTMENT FLAPPER DOOR AND
+ROJ ALL
+MRB
+SPRING AND ACCESS DOOR
+D633A109-ROJ
+Page 2 of 6
+25-120-00-01
+Oct 15/2013
+BOEING PROPRIETARY Cooyright Unpublished Work See the page for details

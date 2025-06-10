@@ -1,0 +1,36 @@
+TOTAL
+AIRWORTHINESS DIRECTIVE
+FAA
+Aircraft Certification Service
+www.faa.gov/aircraft/safety/alerts/
+www.gpoaccess.gov/fr/advanced.html
+2008-09-14 Boeing: Amendment 39-15495. Docket No. FAA-2007-28355; Directorate Identifier
+2007-NM-062-AD.
+Effective Date
+(a) This airworthiness directive (AD) is effective June 6, 2008.
+Affected ADs
+(b) None.
+Applicability
+(c) This AD applies to Boeing Model 737-600, -700, -700C, -800 and -900 series airplanes,
+certificated in any category, as identified in Boeing Special Attention Service Bulletin 737-28-1257,
+Revision 1, dated November 28, 2007.
+Unsafe Condition
+(d) This AD results from a report of random flashes of the six fuel pump low pressure lights and
+intermittent operation of the fuel boost pumps. We are issuing this AD to prevent the simultaneous
+malfunction of all six fuel boost pumps, which could cause the engines to operate on suction feed and
+potentially flame out.
+Compliance
+(e) You are responsible for having the actions required by this AD performed within the
+compliance times specified, unless the actions have already been done.
+Inspection
+(f) Within 24 months after the effective date of this AD: Do a general visual inspection of ground
+blocks GD261 and GD264 for corrosion, measure the electrical bond resistance, and separate the
+ground wires for the fuel boost pump circuit between ground blocks GD261 and GD264. Do these
+actions in accordance with the Accomplishment Instructions of Boeing Special Attention Service
+Bulletin 737-28-1257, Revision 1, dated November 28, 2007. Do applicable corrective actions before
+further flight in accordance with the service bulletin.
+Credit for Actions in Accordance With Previous Service Information
+(g) Actions accomplished before the effective date of this AD in accordance with Boeing Special
+Attention Service Bulletin 737-28-1257, dated February 26, 2007, are acceptable for compliance with
+the corresponding requirements of this AD.
+4

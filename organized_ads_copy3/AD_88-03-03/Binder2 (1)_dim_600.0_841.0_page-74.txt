@@ -1,0 +1,39 @@
+BOEING Model 737 Series Airplanes
+Page 6 of 9
+Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.
+Adoption of the Amendment
+Accordingly. pursuant to the authority delegated to me by the Administrator, the
+Federal Aviation Administration amends part 39 of the Federal Aviation
+Regulations (14 CFR part 39) as follows:
+PART 39 - AIRWORTHINESS DIRECTIVES
+1. The authority citation for part 39 continues to read as follows: Authority: 49
+U.S.C. 106(g). 40113, 44701. § 39.13 [Amended]
+2. Section 39.13 is amended by removing amendment 39-5832 (53 FR 1609,
+January 21. 1988). and by adding a new airworthiness directive (AD), amendment
+39-10858, to read as follows:
+Regulatory Information
+98-22-10 BOEING: Amendment 39-10858 Docket 98-NM-245-AD. Supersedes
+AD 88-03-03. amendment 39-5832
+Applicability: Model 737 series airplanes, as listed in Boeing Service Bulletin 737-
+53A1108. Revision 5. dated October 26, 1989: certificated in any category.
+NOTE 1: This AD applies to each airplane identified in the preceding applicability
+provision. regardless of whether it has been modified, altered, or repaired in the
+area subject to the requirements of this AD. For airplanes that have been
+modified, altered, or repaired SO that the performance of the requirements of this
+AD is affected the owner/operator must request approval for an alternative
+method of compliance in accordance with paragraph (f)(1) of this AD. The request
+should include an assessment of the effect of the modification, alteration, or repair
+on the unsafe condition addressed by this AD: and, if the unsafe condition has not
+been eliminated the request should include specific proposed actions to address
+it
+Compliance: Required as indicated. unless accomplished previously.
+To prevent fatigue cracking of the aft frame and frame support structure of the
+forward service doorway, which could result in loss of the door, and consequent
+rapid decompression of the fuselage, accomplish the following:
+RESTATEMENT OF THE REQUIREMENTS OF AD 88-03-03:
+(a) Prior to the accumulation of 25,000 total landings or within 4,500 landings after
+February 28. 1988 (the effective date of AD 88-03-03, amendment 39-5832).
+whichever occurs later. perform an internal visual inspection for cracking in the
+intercostals and stringers. which support the doorstop fittings of the aft frame of
+the service doorway, in accordance with Boeing Service Bulletin 737-53A1108.
+Revision 1. dated March 12. 1987: Revision 2, dated August 13, 1987: Revision 3.

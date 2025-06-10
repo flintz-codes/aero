@@ -1,0 +1,36 @@
+NOURAL
+AVIATION
+AIRWORTHINESS DIRECTIVE
+FAA
+Aviation Safety
+www.faa.gov/aircraft/safety/alerts/
+ADMINISTRATION
+www.gpoaccess.gov/fr/advanced.html
+2012-05-02 The Boeing Company: Amendment 39-16974: Docket No. FAA-2010-0858;
+Directorate Identifier 2010-NM-183-AD.
+(a) Effective Date
+This AD is effective May 10, 2012.
+(b) Affected ADs
+None.
+(c) Applicability
+This AD applies to The Boeing Company Model 737-600, -700, -700C, -800, and -900 series
+airplanes; certificated in any category: as identified in Boeing Service Bulletin 737-78-1082. dated
+March 25, 2010.
+(d) Subject
+Air Transport Association (ATA) of America Code 78: Engine exhaust.
+(e) Unsafe Condition
+This AD results from reports of heat damage to the inner wall of the thrust reversers. The Federal
+Aviation Administration is issuing this AD to detect and correct such heat damage, which could
+result in separation of adjacent components and consequent structural damage to the airplane, damage
+to other airplanes, and injury to people on the ground.
+(f) Compliance
+You are responsible for having the actions required by this AD performed within the compliance
+times specified, unless the actions have already been done.
+(g) Modification of Thrust Reverser Inner Wall
+Except as required by paragraph (m) of this AD: Within 24 months after the effective date of this
+AD, modify the thrust reverser inner wall, in accordance with the Accomplishment Instructions of
+Boeing Service Bulletin 737-78-1082. dated March 25, 2010.
+(h) Actions Concurrent With Paragraph (g) of This AD
+Before or concurrently with accomplishment of the requirements of paragraph (g) of this AD, do
+the actions specified in paragraphs (h)(1) and (h)(2) of this AD, as applicable.
+8

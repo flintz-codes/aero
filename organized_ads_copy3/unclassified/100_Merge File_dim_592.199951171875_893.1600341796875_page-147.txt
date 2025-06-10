@@ -1,0 +1,57 @@
+Go Airlines (India) Ltd
+C-1.1st floor WIC. P.B Marg Worli.
+SERVICEABLE
+SERVICEABLE
+TAG ID#: NA
+Part#:
+Serial#/Lot#:
+Part Description: ACTUATOR-TWIN MOTOR
+HTE190001-2
+M308GB799
+Lot Qty:
+1
+Comp. Id: COMP-163901
+Ownership: (MBK_1)
+Hazmat ID:
+CRS#/Certificate#:
+Ref Doc#/Rev#:
+Certifying Remarks:
+WO#/RO#:
+11486312 00000001
+Rev. Date:
+WC#/Rep.Vendor:
+Issue Date: 2021-12-29
+Cert. Type: EASA FORM ONE
+Shelf Life Expiry Date: N/A
+TSN: 0,00000000
+TSO:
+Warranty Upto:
+Date & Time:
+AME Sign:
+CSN: 0.00000000
+CSO:
+Approval No: N/A
+Name: N/A
+Warehouse#: BOM-W-SER
+Manf. Lot#:
+Source Order#: PBH-011091-2022
+Inspected Date: 2022-02-02
+Receiving Insp.Sign:
+Zone/Bin:
+Supplier#: 1001000233
+GR#: GRPO-032073-2022
+Inspect By: STORES GOAIR
+ENGINEERING (20732)
+Last Removal Position:
+Ex-NHA Part#:
+Ex-Aircraft:
+Package/WO#:
+GOWN
+Station/ WC#:
+204
+Removal Reason:-
+Ex-NHA Serial#:
+CR#:
+THIS CERTIFICATE IS ISSUED IN RESPECT OF AN AIRCRAFT/AIRCRAFT COMPONENT/ ITEM OF EQUIPMENT AFTER CARRYING OUT THE INSPECTION,
+OPERATION, TEST AND CERTIFYING THAT WORK HAS BEEN PERFORMED IN ACCORDANCE WITH THE AIRWORTHINESS REQUIREMENT STIPULATED BY
+DGCA

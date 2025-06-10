@@ -1,0 +1,82 @@
+JOB CARD
+REV DATE: May
+AIRBUS
+01/2022
+AMM - GOW - A318/A319/A320/A321
+TASK:
+32-41-11-400-006-A
+Tail Number - MSN -
+TITLE:
+32-41-11-04 CONF 00
+FSN:
+VT-WJQ - 09375 - 142
+32-41-11-400-006-A - Installation of the MLG Wheel
+MECH.
+INSP.
+B.
+Make sure that this (these) circuit breaker(s) is (are) open, safetied and
+tagged:
+PANEE
+DESIGNATION
+EIN'
+LOCATION
+HYDRAULIC/BRK FAN/
+121VU
+2GS
+L35
+WHEELS/3 AND 4
+HYDRAULIC/BRK FAN/
+121VU
+1GS
+L32
+WHEELS/1 AND 2
+2
+HYDRAULIC/BRK/FAN/
+121VU
+3GS
+M32
+CTL
+SUBTASK 32-41-11-860-116-B
+C.
+Aircraft Maintenance Configuration
+(1)
+Do one of the steps that follow:
+(a)
+If you removed the MLG wheel from one of the two
+MLGs (LH or RH), make sure that the applicable MLG
+axle is lifted Ref. AMM TASK 07-12-00-582-002.
+Make sure that you do not lift the two MLG
+axles at the same time.
+Make sure that you do not remove more than
+one MLG wheel at the same time.
+(b)
+If you removed the MLG wheel(s) from the two MLGs
+(LH and RH), make sure that the aircraft is lifted on
+N/A
+jacks Ref. AMM TASK 07-11-00-581-001.
+(2)
+Make sure that the PROTECTOR (F46754-1000) is installed.
+2
+(3)
+Make sure that the PARK BRK control switch is set to ON.
+(a)
+On panel 400VU, make sure that the brake pressure
+d
+indication on the Yellow brake-pressure triple-indicator
+is correct.
+(b)
+If necessary, pressurize the brake accumulator with the
+2
+Yellow hydraulic system Ref. AMM TASK
+29-10-00-863-002 or Ref. AMM TASK
+29-24-00-863-001.
+JCP Title: Installation of the MLG
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 5 of 13
+Wheel
+PRINT DATE: Jul 23/2022
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+THE FINAL MAINTENANCE RELEASE/CERTIFICATE OF
+Joing
+RELEASE TO SERVICE

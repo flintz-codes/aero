@@ -6,6 +6,8 @@ import shutil
 from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 import logging
+import time
+import botocore.exceptions
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -57,7 +59,7 @@ def read_text_file(file_path: str) -> str:
 def extract_ad_numbers_with_claude(document_content: str, bedrock_client) -> List[str]:
     """
     Use Claude Sonnet via AWS Bedrock to extract AD number from document content
-    
+    Implements retry logic with exponential backoff on throttling or transient errors.
     Args:
         document_content: Content of the document
         bedrock_client: AWS Bedrock client instance
@@ -72,57 +74,64 @@ def extract_ad_numbers_with_claude(document_content: str, bedrock_client) -> Lis
     - EASA format: YYYY-NNNN (e.g., 2011-0015)
     - FAA format: YYYY-NN-NN (e.g., 2002-08-52)
     - Other formats: XX-XX-XX (e.g., 74-08-09)
-    - May be referenced as "AD No.", "AD Number", "EASA AD No", "AIRWORTHINESS DIRECTIVE", "Supersedes AD", etc.
 
-    Look for patterns like:
-    - "AD No.: 2011-0015"
-    - "AD 2002-08-52"
-    - "EASA AD No : 2011-0015"
-    - "74-08-09 (AIRWORTHINESS DIRECTIVE)"
+   They may be introduced by phrases like:
+    - "AD No.", "EASA AD No", "AIRWORTHINESS DIRECTIVE", "Supersedes AD", "Amendment", or inside parentheses.
 
-    Document Content:
-    {document_content[:3000]}...
+    Respond with each AD number on a new line. One per line, no explanations.
 
-   Respond with each AD number on a new line. No extra words.
-
-   Example:
+    Example:
     2011-0015  
     2002-08-52  
     74-08-09  
-    """
-    
-    try:
-        # Prepare the request body for Claude
-        body = json.dumps({
-            "anthropic_version": "bedrock-2023-05-31",
-            "max_tokens": 200,
-            "messages": [
-                {
-                    "role": "user",
-                    "content": prompt
-                }
-            ]
-        })
-        
-        # Invoke Claude via Bedrock
-        response = bedrock_client.invoke_model(
-            body = body,
-            modelId = MODEL_ID,
-            accept="application/json",
-            contentType="application/json"
-        )
-        
-        # Parse response
-        response_body = json.loads(response.get('body').read())
-        ad_numbers = [line.strip() for line in response_body['content'][0]['text'].splitlines()]
-        ad_numbers = [ad for ad in ad_numbers if is_valid_ad_number(ad)]
 
-        logger.info(f"Claude extracted AD numbers: {ad_numbers}")
-        return ad_numbers
-        
-    except Exception as e:
-        logger.error(f"Claude AD extraction error: {str(e)}")
-        return []
+    Document Content:
+    {document_content[:3000]}...
+    """
+    # Prepare the request body for Claude
+    body = json.dumps({
+        "anthropic_version": "bedrock-2023-05-31",
+        "max_tokens": 200,
+        "messages": [
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    })
+    max_attempts = 5
+    for attempt in range(1, max_attempts + 1):
+        try: 
+            # Invoke Claude via Bedrock
+            response = bedrock_client.invoke_model(
+                body = body,
+                modelId = MODEL_ID,
+                accept="application/json",
+                contentType="application/json"
+            )
+            
+            # Parse response
+            response_body = json.loads(response.get('body').read())
+            ad_numbers = [line.strip() for line in response_body['content'][0]['text'].splitlines()]
+            ad_numbers = [ad for ad in ad_numbers if is_valid_ad_number(ad)]
+
+            logger.info(f"Claude extracted AD numbers: {ad_numbers}")
+            return ad_numbers
+            
+        except botocore.exceptions.ClientError as e:
+            error_msg = str(e)
+            if "ThrottlingException" in error_msg or "Rate exceeded" in error_msg:
+                wait_time = 2 ** attempt
+                logger.warning(f"Claude throttled (attempt {attempt}/{max_attempts}). Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+                continue
+            else:
+                logger.error(f"Claude ClientError: {error_msg}")
+                break
+        except Exception as e:
+            logger.error(f"Claude extraction failed: {str(e)}")
+            break
+    return []
 
 
 def fallback_ad_extraction(document_content: str) -> List[str]:
@@ -161,6 +170,14 @@ def fallback_ad_extraction(document_content: str) -> List[str]:
         r'(?:PERFORM|COMPLY\s+WITH)\s+(\d{2}-\d{2}-\d{2})',
         r'(?:PERFORM|COMPLY\s+WITH)\s+(\d{4}-\d{2}-\d{2})',
         r'(?:PERFORM|COMPLY\s+WITH)\s+(\d{4}-\d{4})',
+
+        r'\b(?:EASA\s+)?AD\s+No\.?\s*[:\-]?\s*(\d{4}-\d{4})',
+        r'\bAD\s+No\.?\s*[:\-]?\s*(\d{4}-\d{2}-\d{2})',
+        r'\bAD\s+(\d{4}-\d{4})',
+        r'\bAD\s+(\d{4}-\d{2}-\d{2})',
+        r'\bAD\s+(\d{2}-\d{2}-\d{2})',
+        r'Supersedes\s+AD\s+(\d{4}-\d{2}-\d{2})',
+        r'Supersedes\s+AD\s+(\d{2}-\d{2}-\d{2})'
     ]
     
     found = set()
@@ -466,8 +483,8 @@ def main():
     Main function to run the AD Document Organizer
     """
     # Configuration - Update these paths as needed
-    INPUT_DIRECTORY = "/Users/garvagarwal/Aero-AI/structured_output_folder copy"  # Change this to your input directory
-    OUTPUT_DIRECTORY = "organized_ads_copy2"   # Change this to your desired output directory
+    INPUT_DIRECTORY = "/Users/garvagarwal/Aero-AI/structured_output_folder"  # Change this to your input directory
+    OUTPUT_DIRECTORY = "organized_ads_copy3"   # Change this to your desired output directory
     
     # Get input directory from user
     # user_input_dir = input(f"Enter your input directory path (press Enter for default '{INPUT_DIRECTORY}'): ").strip()

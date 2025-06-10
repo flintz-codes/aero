@@ -1,0 +1,82 @@
+REV DATE: Nov
+JOB CARD
+AIRBUS
+01/2021
+AMM - GOW - A318/A319/A320/A321
+TASK:
+32-51-51-400-001-A
+Tail Number - MSN -
+TITLE:
+32-51-51-04 CONF 00
+FSN:
+32-51-51-400-001-A - Installation of the Nose-Wheel Steering
+VT-WJQ - 09375 - 142
+Servo-Control
+MECH.
+INSP.
+PANEL
+DESIGNATION
+FIN
+LOCATION
+HYDRAULIC/BRAKING
+121VU
+AND STEERING/SYS1/
+1GG
+M34
+CTL
+B
+of
+HYDRAULIC/BRAKING
+121VU
+AND STEERING/SYS1/
+2GG
+M33
+IND AND/SPLY
+4.
+Procedure
+Ref, Fig, Nose-Wheel Steering Servo-Control
+SUBTASK 32-51-51-110-050-A
+A.
+Preparation for Installation
+(1)
+Clean the component interfaces and the adjacent area.
+Q
+(2)
+Clean the attachment hardware with Non Aqueous Cleaner-
+General - - (Material Ref. 08BAA9) and dry them with filtered
+compressed air.
+no
+(3)
+Apply a light coat of Non Hardening Jointing Putty-High Temp.
+Area - Structure (Material Ref. 06LDG2) to the threads of all
+G
+No
+the screws.
+SUBTASK 32-51-51-420-050-C
+B.
+Installation of the Servo-Control
+(1)
+Put the servo-control (6) in position with the screws (10).
+no
+(2)
+TORQUE the screws (10) to between 0.8 and 0.9 m.daN
+(70.80 and 79.65 lbf.in).
+WARNING:
+USE PROTECTIVE GOGGLES AND GLOVES WHEN
+YOU REMOVE OR INSTALL LOCKWIRE. EACH
+TIME YOU CUT LOCKWIRE, REMOVE AND
+DISCARD IT IMMEDIATELY. LOOSE LOCKWIRE
+B
+CAN CUT YOU OR MAKE YOU BLIND, AND/OR
+CAN CAUSE DAMAGE.
+information
+GOW
+JCP Title: IN
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+028
+Page 4 of 9
+PRINT DATE: Dec 13/2021
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+RELEASE TO SERVICE
