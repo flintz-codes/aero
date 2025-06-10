@@ -1,0 +1,84 @@
+REV DATE: Aug
+JOB CARD
+AIRBUS
+01/2021
+AMM - GOW - A318/A319/A320/A321
+TASK:
+32-41-12-400-001-A
+Tail Number - MSN -
+TITLE:
+32-41-12-04 CONF 00
+FSN:
+VT-WJQ - 09375 - 142
+32-41-12-400-001-A - Installation of the NLG Wheel
+MECH.
+INSP.
+REFERENCE
+QTY
+DESIGNATION
+No specific
+Torque wrench: range to between 20.71
+and 22.89 m.daN (152.73 and 168.81
+lbf.ft)
+of
+1324A
+1
+HANDLING TOOL
+J47548
+1
+PROTECTOR NLG
+J47549
+1
+ADAPTOR NLG
+B.
+Consumable Materials
+REFERENCE
+DESIGNATION
+03GBB1
+Synthetic Oil base Grease-General Purpose
+Clay Thickened -
+03GCB1
+Synthetic Oil base Grease-Landing Gear
+of
+Wheel Bearing Lithium Thickened -
+06LCG9
+Non Hardening Jointing Putty-Medium Temp.
+Area - -
+08BBB1
+Non Aqueous Cleaner-Petroleum Based -
+C.
+Work Zones and Access Panels
+ZONE/ACCESS
+ZONE DESCRIPT
+711
+NOSE GEAR
+P
+D.
+Expendable Parts
+FIG.ITEM
+DESIGNATION
+4
+COTTER PINS
+32-21-13-12
+ITEM 060
+3
+NUTS
+32-21-13-12
+of
+ITEM 070
+4
+COTTER PINS
+32-21-13-22
+ITEM 060
+JCP Title: Installation of the NLG
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 2 of 10
+Wheel
+PRINT DATE: 0c-180021
+CERTIFIES THAT THE TASK/INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+Rus
+loow
+333
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+RELEASE TO SERVICE

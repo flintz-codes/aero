@@ -1,0 +1,145 @@
+Page 15 of 23
+R-6423-06-37X-01932A
+MFG S/N 32672
+AD Number
+Amendment
+Assigned
+Subject
+Applies
+Compliance/Limitations
+Follow-on
+Effective Date
+to
+Action Req'd
+2000-25-07
+39-12041
+Boeing
+To detect and correct damage of the aft end
+NO
+Applies to 737-100, -200, -200C series airplanes
+NONE
+1/2/2001
+of each inboard flap track of the wing
+CLOSED
+outboard flap.
+2000-26-05
+39-12055
+Boeing
+To prevent potential ignition of fiberglass
+NO
+Applies to 737-300, -400 & -500 series and 757-200
+NONE
+2/2/2001
+insulation in the environmental control
+& -300 series airplanes.
+CLOSED
+system (ECS) ducts.
+2001-01-13
+39-12084
+Boeing
+To detect and correct chafing and to prevent
+NO
+Applies to 737-300, -400 & -500 series airplanes
+NONE
+2/28/2001
+electrical contact between the fuel quantity
+CLOSED
+indicating system (FQIS) wiring and the
+surrounding structure.
+2001-02-01
+39-12085
+Boeing
+To detect fatigue cracking of the forward
+NO
+Applies to 737-300, -400 & -500 series airplanes
+NONE -
+2/2/8/2001
+pressure bulkhead.
+CLOSED
+2001-04-08
+SUPERSEDED BY AD 2001-08-09
+2001-06-08
+SUPERSEDED BY AD 2001-23-01
+2001-06-15
+39-12162
+Boeing
+To prevent jamming, restricting, or binding
+NO
+Applies to 737-600, -700, -700C & -800 series
+NONE -
+5/7/2001
+of the elevator control surfaces due to loose
+airplanes as listed in S/B 55A1064 Rev 1. Airplane
+CLOSED
+or missing fasteners.
+line no. 94 last effected airplane.
+2001-08-07
+SUPERSEDED BY AD 2004-03-23
+2001-09-15
+39-12222
+Boeing
+To prevent in-flight separation of the main
+NO
+Applies to 737-200 & -300 series airplanes with
+NONE
+6/14/2001
+deck cargo door from the airplane.
+main deck cargo doors.
+CLOSED
+2001-09-51
+39-12251
+Boeing
+To prevent excessive freeplay in the tab
+NO
+Applies to 737-600, -700, -700C, -800 series lines
+NONE
+4/24/2001
+control mechanism, which could result in
+numbers 1 through 788 inclusive, 790 through 814
+CLOSED
+elevator tab flutter
+inclusive, 816, 819, 821 & 823.
+2001-10-14
+39-12240
+Boeing
+To find and fix incorrect installation of the
+NO
+Applies to 737-600, -700, & -800 series airplanes as
+NONE
+6/8/2001
+release pin in the generator firing mechanism
+listed in S/B 35-1077 lines 1 - 784.
+CLOSED
+of the chemical oxygen generator.
+Note: For the airplanes referenced do the repeat
+inspections as called out in paragraph (a) or as
+stated in FAA letter 130S-01-34 dated June 27,
+2001.
+2001-11-07
+39-12249
+Boeing
+Hydraulic Power - DC Motor operated
+NO
+Applies to 737 series as listed in S/B 29A1073, Rev
+NONE -
+7/16/2001
+shutoff valve Inspection
+3, effective for models 737-100, -200, -300, -400 &
+CLOSED
+-500 & S/B 29A1081 effective for models 737-600,
+-700 & -800 lines 119 through 311.
+2001-11-11
+39-12254
+Boeing
+Unrestrained movement of the passenger
+NO
+Applies to 737 series airplanes as listed in S/B 25-
+NONE -
+7/16/2001
+seats during high fwd deceleration of the
+1371 Rev 2, (applies to 737-400 A/P's only) and S/B
+CLOSED
+airplane.
+25-1407 (applies to 737-700 & -800 A/P's variable
+numbers YC731 - YC732; YA271-YA272; YA811
+YA812 lines 41, 72, 140, 148, 164 & 177.)

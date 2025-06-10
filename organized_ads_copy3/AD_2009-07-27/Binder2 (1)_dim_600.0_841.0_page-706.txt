@@ -1,0 +1,88 @@
+spiceJet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO. / PAGE
+SCHEDULE
+ENGINEERING
+VT-SPW
+4 of 36
+ITEM
+ORDER NO.
+SP EO-01-28-292
+N/A : AIRCRAFT IS GROUP 2
+j. Measure the electrical bonding resistance:
+(1) Between the Bonding Jumper loose terminal lug and the stiffener
+(for Left Engine Fuel Shutoff Valve Actuator and Right Engine Fuel
+N/A
+MV
+Shutoff Valve Actuator) as given in Figure 6. If necessary. rework
+the fay surfaces of the ground stud bracket to the stiffener as
+2009 07 27
+given in Figure 6.
+(2) Between Bonding Jumper loose terminal lug and the Spar Web
+(for Crossfeed Valve Actuator) as given in Figure 6. If necessary.
+N/A
+thef
+rework the fay surfaces of the ground stud bracket support as
+given in Figure 6.
+2009 07 27
+k. Install the Bonding Jumpers loose terminal lug on the
+correspondent Valve Actuator Housing using a sealed fay surface
+N/A
+M/
+bond as given in Figure 6.
+2009 07 27
+I. Measure the electrical bonding resistance between each Bonding
+jumper lug N/A
+Terminal installed on the actuator and the Actuator
+Upper Housing. If necessary. rework the fay surfaces of the bonding
+ml
+jumper terminal lugs installed on the valve actuator as given in
+2009 0727
+Figure 6.
+9. Remove the Left Wing Fuel Quantity Indication System (FQIS)
+shield ground wires terminal lugs from GD3950 ground stud (three N/A
+M!
+shield ground wires) as given in Figure 6.
+2009 0727
+10. Remove the Right Wing Fuel Quantity Indication System (FQIS)
+shield ground wires terminal lugs from GD3952 ground stud (three
+N/A
+ml
+shield ground wires) as given in Figure 6.
+20090727
+11. Install the Left Wing Fuel Quantity Indication System (FQIS)
+shield ground wires terminal lugs on GD3950 ground stud (three
+shield ground wires) using a sealed fay surface bond to make a
+N/A
+my
+Category 2 sealed electrical faying surface bond) as given in
+2009 0727
+Figure 6.
+12. Install the Right Wing Fuel Quantity Indication System (FQIS)
+shield ground wires terminal lugs on the GD3952 ground stud
+N/A
+MY
+(three shield ground wires) using a sealed fay surface bond to
+Make a Category 2 sealed electrical faying surface bond) as given
+2009 07 27
+in Figure 6.
+13. Measure the electrical bonding resistance between the Left Wing
+Fuel Quantity Indication System (FQIS) uppermost shield ground
+wire terminal lug installed on ground stud GD3950 and the spar
+N/A
+web as given in Figure 6. If necessary rework the electrical fay
+2009 0727
+surfaces as given in Figure 6.
+14. Measure the electrical bonding resistance benevote Right
+Wing Fuel Quantity Indication System dos uppermist shield
+ground wire terminal lue installed on ground Still 603952 and
+N/A
+ml)
+the spar web as given in Figure 6. If necessary. rewark the
+20090727
+electrical fay surfaces as given in Figures.
+YC465 YD331 YK641 YK642YK941

@@ -10,7 +10,7 @@ import time
 import botocore.exceptions
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename='output1.log',level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 # Global configuration
@@ -441,10 +441,10 @@ def print_summary(text_files: List[Path], ad_document_mapping: Dict[str, List[Pa
     for ad_number, files in ad_document_mapping.items():
         logger.info(f"  - AD {ad_number}: {len(files)} files")
     
-    if unclassified_files:
-        logger.info(f"\nUnclassified files:")
-        for file_path in unclassified_files:
-            logger.info(f"  - {file_path.name}")
+    # if unclassified_files:
+    #     logger.info(f"\nUnclassified files:")
+    #     for file_path in unclassified_files:
+    #         logger.info(f"  - {file_path.name}")
 
 
 def organize_documents(input_directory: str, output_directory: str = "organized_ads", use_claude: bool = True):
@@ -484,7 +484,7 @@ def main():
     """
     # Configuration - Update these paths as needed
     INPUT_DIRECTORY = "/Users/garvagarwal/Aero-AI/structured_output_folder"  # Change this to your input directory
-    OUTPUT_DIRECTORY = "organized_ads_copy3"   # Change this to your desired output directory
+    OUTPUT_DIRECTORY = "organized_ads_copy4"   # Change this to your desired output directory
     
     # Get input directory from user
     # user_input_dir = input(f"Enter your input directory path (press Enter for default '{INPUT_DIRECTORY}'): ").strip()
