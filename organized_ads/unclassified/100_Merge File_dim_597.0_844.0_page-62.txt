@@ -1,0 +1,79 @@
+JOB CARD
+REV DATE: Aug
+AIRBUS
+01/2021
+AMM - GOW - A318/A319/A320/A321
+TASK:
+23-72-51-400-001-A
+Tail Number - MSN -
+TITLE:
+23-72-51-04 CONF 00
+FSN:
+23-72-51-400-001-A - Installation of the Anti-Hijack-System
+VT-WJQ - 09375 - 142
+Cameras
+MECH.
+INSP.
+(6)
+If the ceiling panel was removed during the removal procedure,
+do the subsequent steps:
+(a)
+Put the camera (3) in the correct position on the ceiling
+panel.
+(b)
+Install the washers (6) and the screws (5).
+(c)
+Install the caps (4).
+- N/ A
+(d)
+Put the ceiling panel, with the camera (3), in position
+until you can connect the electrical connector (1).
+(CEILING PANEL
+NOT MOVAD)
+(e)
+Connect the electrical connector (1) to the camera (3).
+(f)
+Install the ceiling panel Ref. AMM TASK
+25-23-42-400-001.
+9
+(7)
+If the ceiling panel was not removed during the removal
+procedure, do the subsequent steps:
+(a)
+Put the camera (3) in position until you can connect the
+electrical connector (1).
+(b)
+Connect the electrical connector (1).
+(c)
+Hold the camera (3) in the installed position.
+(d)
+Install the washers (6) and the screws (5).
+(e)
+Install the caps (4).
+(8)
+Make sure that the work area is clean and clear of tools and
+other items.
+SUBTASK 23-72-51-865-056-A
+D.
+Remove the safety clip(s) and the tag(s) and close this(these) circuit
+breaker(s):
+PANEL
+DESIGNATION
+EIN
+LOCATION
+DOORS/CKPT/VIDEO/
+I
+122VU
+15RA
+T16
+SPLY
+JCP Title: WJQ
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 4 of 6
+PRINT DATE: Oct 31/2021
+CERTIFIES THAT THE TASK /INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+GLAV
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+290
+RELEASE TO SERVICE

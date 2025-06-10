@@ -1,0 +1,81 @@
+LHT archived Certificate
+1. Approving Competent
+17843185
+2.
+Authority / Country
+3. Form Tracking Number
+Germany
+AUTHORISED RELEASE CERTIFICATE
+19447955 00000003
+EASA FORM 1
+4. Organisation Name and Address:
+5. Work Order/Contract/Invoice
+Lufthansa Technik
+Lufthansa Technik AG
+Weg beim Jäger 193
+22335 Hamburg
+17843185
+6. Item
+Germany
+7. Description
+8. Part No.
+9. Qty.
+10. Serial No.
+11. Status / Work
+01
+ELEVATOR AILERON CMPTR B-DL
+3945129100
+1
+ELACVB025206
+INSPECTED / TESTED
+12. Remarks
+ATA 2793
+TP F
+MK-No. 10
+Pack Code CO
+Resp. Workshop 33432030
+Workshop Station HAM305
+SBC 394512B-27-021, Rev. 05 performed.
+SBC 394512B-27-027. Rev. 00 performed.
+Software ELAC: LOADED WITH 3945129112 (L101)
+Return to Service in Accordance with 14 CFR part 43
+The work identified in block 11 and described herein has been accomplished in accordance with
+14 CFR part 43 and in respect to that work the items are approved for return to service under
+FAA Certificate No. DLAY225D
+TASK PERFORMED IN ACCORDANCE WITH CMM 27-93-35A
+REV. 18 / CMDS 27-93-35 ISSUE 098
+TCCA Approval No. 897-08
+Further details of work performed are attached either in a Workshop Report
+13a. Certifies that the items identified above were manufactured in conformity to:
+(reference number: see blocks 3 and 5) or in other applicable documents.
+14a.
+Part-145.A.50 Release to Service
+Other Regulation specified in block 12
+approved design data and are in
+non-approved design data specified in block 12
+Certifies that unless otherwise specified in block 12. the work identified in block 11 and described in
+a condition for safe operation
+block 12. was accomplished in accordance with Part- 145 and in respect to that work the items are
+considered ready for release to service.
+13b. Authorised Signature
+13c. Approval / Authorisation Number
+14b. Authorised Signature
+great
+14c. Certificate / Approval Ref. Number
+051756
+I
+DE.145.0001
+13d. Name
+13e. Date (dd mmm yyyy)
+14d. Name
+14e. Date (dd mmm yyyy)
+Stefan Joachim Grunst
+24 May 2019
+EASA FORM 1 Issue 2
+USER/INSTALLER RESPONSIBILITIES
+Note:
+This certificate does not automatically constitute authority to install the item(s).
+his/her Where airworthiness the user/installer authority performs accepts work items in accordance from the airworthiness with regulations authority of an airworthiness specified in block authority 1. different from the airworthiness authority specified in block 1, it is essential that the user/installer ensures that
+the Statements user/installer in blocks 13a and 14a do not constitute installation certification. In all cases aircraft maintenance records must contain an installation certification issued in accordance with the national regulations by
+before the aircraft may be flown.
+LHT Form 30800 E-13 (HAM TQ3)

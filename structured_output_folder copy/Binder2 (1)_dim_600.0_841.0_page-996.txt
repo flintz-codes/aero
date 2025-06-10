@@ -1,0 +1,56 @@
+BOEING SERVICE BULLETIN 737-35A1058
+Variable Number
+Group
+YC731 YC734
+1
+YC751 YC752
+1
+YC761 YC763
+1
+YC781 YC783
+1
+YC801 YC816
+1
+YC931 YC932
+1
+YC941
+1
+YC971
+1
+YE001 YE015
+1
+YE101 YE109
+1
+YE151 YE153
+1
+YG001 YG018
+1
+YG020 YG023
+1
+YG027 YG030
+1
+2. Spares Affected
+None.
+B. Concurrent Requirements
+None.
+C. Reason
+The changes provided in this service bulletin will help prevent damage to the low pressure oxygen flex
+hoses that may be subjected to electrical current. If the change in this service bulletin is not done, an
+electrical grounding condition can result, causing the hose to melt or burn and release smoke and/or
+fire into the flight compartment.
+One operator has reported damaged oxygen supply hoses on another Boeing model in August of 1997.
+This damage has occurred due to a short circuit in the 757 Audio Select Panel. It sent an electrical
+current through the support structure to the flight crew oxygen mask stowage box. This caused the
+spring inside the low pressure oxygen hose to act as an electrical conductor and heat up. This caused
+the hose to burn through.
+Also, a similar occurrence on a 737 was reported due to improper maintenance.
+This service bulletin will replace low pressure oxygen hoses with non-conductive hoses located on the
+flight deck.
+Revision 1 is sent to advise affected operators of the following:
+Original Issue: September 02, 1999
+Export Controlled ECCN: 9E991 - BOEING
+737-35A1058
+Revision 2: January 17, 2013
+PROPRIETARY - Copyright © Unpublished
+13 of 32
+Work See page 1 for details.

@@ -1,0 +1,53 @@
+JOBCARA
+REV DATE: May
+AIRBUS
+01/2021
+AMM - GOW - A318/A319/A320/A321
+TASK:
+21-51-51-400-001-A
+Tail Number - MSN -
+TITLE:
+21-51-51-04 CONF 00
+FSN:
+21-51-51-400-001-A - Installation ofithe Pack Flow Control
+VT-WJQ - 09375 - 142
+Valve/Pack 1 Flow-Control Unit
+MECH.
+INSP.
+SUBTASK 21-51-51-410-053-B
+A.
+Close Access
+(1)
+Make sure that the work area is clean and clear or tools and
+its
+other items.
+(2)
+Install the access panels Ref. AMM TASK 53-35-13-400-002:
+(a)
+FOR 23HB (FLOW CTL UNIT-PACK 1)
+a
+its
+191KB
+191BB.
+(b)
+FOR 24HB (FLOW CTL UNIT-PACK 2)
+1A
+192KB
+192FB.
+(3)
+Remove the WARNING NOTICE(S)
+SUBTASK 21-51-51-862-050-A
+B.
+De-energize the aircraft electrical circuits Ref. AMM TASK
+24-41-00-862-002.
+JCP Title: FCV
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 11 of 19
+PRINT DATE: May 30/2021
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD'AND SUPPORTS
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+full
+GOW
+200
+RELEASE TO SERVICE

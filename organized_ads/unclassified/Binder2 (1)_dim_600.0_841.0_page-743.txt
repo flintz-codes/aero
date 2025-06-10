@@ -1,0 +1,123 @@
+(xxxv) Odd dash
+PK0001 through PK0160
+Ramp/Slide, off-wing,
+767-200 and -300
+numbers 101655-101
+inclusive, and all S/Ns
+LH side
+series airplanes
+through 101655-305
+with an L55 prefix
+(xxxvi) Even dash
+PF0001 through PF0163
+Ramp/Slide, off-wing,
+767-200 and -300
+numbers 101655-102
+inclusive, and all S/Ns
+RH side
+series airplanes
+through 101655-306
+with an R55 prefix
+(xxxvii) Odd dash
+PH0001 through PH0299
+Ramp/Slide, off-wing,
+767-200 and -300
+numbers 101656-103
+inclusive, and all S/Ns
+LH side
+series airplanes
+through 101656-305
+with an L56 prefix
+(xxxviii) Even dash
+PD0001 through PD0293
+Ramp/Slide, off-wing.
+767-200 and -300
+numbers 101656-104
+inclusive, and all S/Ns
+RH side
+series airplanes
+through 101656-306
+with an R56 prefix
+(xxxix) 101658-101
+PAK001 through
+Slide, forward door
+737-200 series
+and 101658-103
+PAK136 inclusive
+airplanes
+(xl) 101659-101
+PAL001 through
+Slide, aft door
+737-200, -300,
+through 101659-205
+PAL670 inclusive
+-400, and -500
+inclusive
+series airplanes
+(xli) 101660-101
+PAB001 through
+Slide, forward door
+737-300, -400, and
+through 101660-107
+PAB610 inclusive
+-500 series.
+inclusive
+airplanes
+(xlii) 5A3086-3 and
+B3F001 through B3F314
+Slide, forward door
+737-600. -700.
+5A3086-301
+inclusive
+-700C. -800. and
+-900 series
+airplanes
+(xliii) 5A3088-3 and
+B3A001 through
+Slide, aft door
+737-600, -700,
+5A3088-301
+B3A337 inclusive
+-700C, -800, and
+-900 series
+airplanes
+(xliv) 5A3109-1
+Odd S/Ns, ST0001
+Ramp/Slide, off-wing,
+777-300 and
+through ST0013
+LH side
+-300ER series
+airplanes
+(xlv) 5A3109-2
+Even S/Ns, ST0002
+Ramp/Slide, off-wing.
+777-300 and
+through ST0012
+RH side
+-300ER series
+airplanes
+(xlvi) 5A3307-1
+BNG0001 through
+Slide, forward/aft door
+737-600, -700,
+through 5A3307-5
+BNG0212 inclusive
+-700C. -800, and
+inclusive. and 5A3307-
+-900 series
+301
+airplanes
+(xlvii) 7A1323-1
+GS0001 through GS1339
+Slide, Stretched upper
+747-100B SUD,
+through 7A1323-114
+inclusive, and all S/Ns
+deck
+-300, -400, and
+inclusive
+with a single G prefix
+-400D series
+airplanes
+10

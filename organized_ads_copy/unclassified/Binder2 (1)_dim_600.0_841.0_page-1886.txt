@@ -1,0 +1,91 @@
+VT-SPW
+spicejet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO./PAGE
+SCHEDULE
+ENGINEERING
+ITEM
+ORDER NO.
+SP EO-01-57-504R2
+STRAKELET BOX
+A
+6
+6
+FWD
+FWD
+A
+BLOWOUT DOOR
+UP
+INBD
+B
+A-A
+FUEL SHUTOFF
+2
+SLAT TRACK
+BLOWOUT
+VALVE ACCESS
+RIB
+STRAKELET
+4
+DOOR
+3
+DOOR
+BOX
+FWD
+FWD
+LOWER PANEL
+DOOR LAND
+C
+D
+INBD
+ASSEMBLY
+ASSEMBLY
+INBD
+The step numbers shown below agree with the numbers shown in the circle symbols in the figure. The QTY
+numbers shown below are the number of parts necessary for one side of the airplane.
+STEP
+TASK
+NAME
+IDENTIFICATION
+QTY
+MORE DATA
+1
+Apply
+SEALANT
+BMS 5-45, Class B-1/2
+(a) (k)
+OR B-2
+2
+Apply
+SEALANT
+BMS 5-45, Class B-1/2
+-
+(b) (a) (k)
+OR B-2
+3
+Apply
+SEALANT
+BMS 5-45, CLASS B-1/2
+Injection seal with BMS 5-45,
+Class B-1/2. Refer to SOPM 20-
+50-19 as an accepted procedure.
+(c) (k)
+4
+Apply
+SEALANT
+BMS 5-45, CLASS B-1/2
+-
+(d) (k)
+FIGURE 8: LEFT WING - BLOWOUT DOOR AND FUEL SHUTOFF VALVE ACCESS DOOR - SEALANT
+APPLICATION
+(SHEET 2 OF 4)
+SpiceGet FLEET EFFECTIVITY
+SOURCE
+ALL
+Page 35 of 90
+Procedure Ref.: GEP-05
+Form No. SJ / TSD / 036R 1

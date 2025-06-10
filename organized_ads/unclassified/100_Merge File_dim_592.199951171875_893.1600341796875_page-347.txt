@@ -1,0 +1,58 @@
+Go Airlines (India) Ltl
+MACK STAR KALEDONIA BUILDING 4TH FLOCR SAHAR
+ROAD, ANDHERI EAST. MUMBAI - 400069
+SERVICEABLE
+SERVICEABLE
+TAG ID#: NA
+Part#:
+Serial#/Lo#:
+Part Description: V/HEEL ASSY-M_G
+C20195162
+61953
+Lot Qty:
+Comp. Id: COMP-109027
+Ownership: (Cvnec)
+Hazmat ID:
+CRS#/Certificate#:
+Ref Doc#/Rev#:
+Certifying Remarks:
+WO#.RO#:
+HAI/ARC/22-03848
+Rev. Date:
+TYRE S/N : 3195AB35 R-2
+WC#/Rap.Ventlor:
+issue Date: 2022-06-08
+Cert. Type: CA FORM
+Shelf Life Expiry Date: N/A
+TSN:
+TSO:
+Warranty Upto:
+Date & Time:
+AME Sign:
+CSN: 3338.00000000
+CSO:
+Approval No: N/A
+Name: N/A
+Warehouse#: DEL-W-SER
+Manf. Lot#:
+Source Ordei#: RO-021189-2022
+Inspected Date: 2022-06-06
+Receiving Insp Stan:
+Zone/Bin: 1-ROT / 001-A
+Supplier#: 1002790556
+GR#: GRRO-021082-2022
+Inupect By: Dever dra Vadav (12648)
+Last Removal Position:
+Ex-NHA Part#:
+Ex-Aircraft: VIANT
+Package/WO#) TRN-510 23-2605
+John
+32-2650GM-RHMLG.WHEEL-4
+Station/WC#: SLR
+Removal Reason:-
+Ex-NHA Serialit:
+CR#: CREP-104557-2705
+WORN OUT TO LIMIT-
+CERTIFIES THAT UNLESS OTHERWISE SPECIFIED IN 'ANY REMARKS' COLUMN, THE WORK IDENTIFIED IN STATUS AVORK COLUMN AND DESCRIBED IN 'ANY
+REMARKS COLUMN,WAS ACCOMPLISHED IN ACCORDANCE WITH CAR 145 AND IN RESPECT TO THAT WORK THE ITEMS ARE CONSIDERED READY FOR
+RELEASE TO SERVICE

@@ -1,0 +1,39 @@
+NOURAL
+AVIATION
+AIRWORTHINESS DIRECTIVE
+FAA
+Aviation Safety
+www.faa.gov/aircraft/safety/alerts/
+MOMINISTRATION
+www.gpoaccess.gov/fr/advanced.html
+2012-23-08 The Boeing Company: Amendment 39-17264; Docket No. FAA-2012-0591;
+Directorate Identifier 2012-NM-015-AD.
+(a) Effective Date
+This airworthiness directive (AD) is effective December 31, 2012.
+(b) Affected ADs
+This AD supersedes AD 2008-08-24, Amendment 39-15478 (73 FR 21242, April 21, 2008).
+(c) Applicability
+(1) This AD applies to The Boeing Company Model 737-600, -700, -700C, -800, -900, and -
+900ER series airplanes, certificated in any category, as identified in Boeing Special Attention Service
+Bulletin 737-54-1043, Revision 2, dated November 4, 2011.
+(2) Supplemental Type Certificate (STC) ST00830SE
+(http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/408E012E008616A7862578880060
+456C?OpenDocument&Highlight=st00830se) does not affect the ability to accomplish the actions
+required by this AD. Therefore, for airplanes on which STC ST00830SE is installed, a "change in
+product" alternative method of compliance (AMOC) approval request is not necessary to comply with
+the requirements of 14 CFR 39.17. For all other AMOC requests, the operator must request approval
+for an AMOC in accordance with the procedures specified in paragraph (h) of this AD.
+(d) Subject
+Joint Aircraft System Component (JASC)/Air Transport Association (ATA) of America Code
+54, Nacelles/pylons.
+(e) Unsafe Condition
+This AD was prompted by a report of a broken drain tube assembly on the aft fairing of the left
+engine strut at the clamp support location under the aft fairing compartment, inside the heat shield
+cavity of the aft fairing. There have also been reports of tube wear at the clamp location on additional
+airplanes. We are issuing this AD to prevent failure of the drain tube assemblies and clamps on the aft
+fairings of the engine struts. Such failure could allow leaked flammable fluids in the drain systems to
+discharge onto the heat shields of the aft fairings of the engine struts, which could result in an
+undetected and uncontrollable fire.
+(f) Compliance
+Comply with this AD within the compliance times specified, unless already done.
+6

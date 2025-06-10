@@ -1,0 +1,76 @@
+B737-800/900 ENGINE (CFM56-7B)
+spiceJet
+ENGINE REMOVAL / INSTALLATION SCHEDULE
+DOCUMENT NO.
+B737/72/EC/03
+REV 0
+S.NO
+OFF LOG
+ON LOG
+13.
+Description:
+Description:
+Part No.:
+Part No.:
+S/No.:
+S/No.:
+Installation carried out as per AMM:
+Reason for removal:
+Security of installation checked found satisfactory
+Removed from
+Sign:
+Approval No:
+Operation check carried out as per AMM:
+Sign:
+Approval No:
+Found Satisfactory
+GRN / Loan Number
+Sign:
+Approval No:
+S.NO
+OFF LOG
+ON LOG
+14.
+Description:
+Description:
+Part No.:
+Part No.:
+S/No.:
+S/No.:
+Installation carried out as per AMM:
+Reason for removal:
+Security of installation checked found satisfactory
+Removed from
+Sign:
+Approval No:
+Operation check carried out as per AMM:
+Sign:
+Approval No:
+Found Satisfactory
+GRN / Loan Number
+Sign:
+Approval No:
+S.NO
+OFF LOG
+ON LOG
+15.
+Description:
+Description:
+Part No.:
+Part No.:
+S/No.:
+S/No.:
+Installation carried out as per AMM:
+Reason for removal:
+Security of installation checked found satisfactory
+Removed from
+Sign:
+Approval No:
+Operation check carried out as per AMM:
+Sign:
+Approval No:
+Found Satisfactory
+GRN / Loan Number
+Sign:
+Approval No:
+Page 78 of 78

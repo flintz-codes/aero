@@ -1,0 +1,48 @@
+AIRWORTHINESS DIRECTIVE
+DEPARTMENT
+AVAIRA
+ADMINISTRE
+Aircraft Certification Service
+U.S. Department
+Washington, DC
+of Transportation
+Federal Aviation
+Administration
+We post ADs on the internet at "www.faa.gov"
+The following Airworthiness Directive issued by the Federal Aviation Administration in accordance with the provisions of Title 14 of the Code of Federal Regulations (14 CFR) part 39,
+applies to an aircraft model of which our records indicate you may be the registered owner Airworthiness Directives affect aviation safety and are regulations which require immediate
+attention You are cautioned that no person may operate an aircraft to which an Airworthiness Directive applies, except in accordance with the requirements of the Airwortniness
+Directive (reference 14 CFR part 39. suppart 39 3).
+2003-03-22 Boeing: Amendment 39-13047. Docket 2002-NM-240-AD.
+Applicability: Model 737-600, -700, -700C, -800, and -900 series airplanes; line numbers I
+through 1174 inclusive; certificated in any category.
+Note 1: This AD applies to each airplane identified in the preceding applicability provision.
+regardless of whether it has been modified, altered, or repaired in the area subject to the requirements
+of this AD. For airplanes that have been modified, altered, or repaired SO that the performance of the
+requirements of this AD is affected, the owner/operator must request approval for an alternative
+method of compliance in accordance with paragraph (e) of this AD. The request should include an
+assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by
+this AD: and. if the unsafe condition has not been eliminated. the request should include specific
+proposed actions to address it.
+Compliance: Required as indicated. unless accomplished previously.
+To prevent severe vibration of the elevator and elevator tab assembly. which could result in
+severe damage to the horizontal stabilizer followed by possible loss of the elevator tab and
+consequent loss of controllability of the airplane, accomplish the following:
+Airplane Flight Manual (AFM) Revision/Placard Installation
+(a) For Model 737-600, -700, -700C, -800, and -900 series airplanes having line numbers 1
+through 1043 inclusive: Within 90 days after the effective date of this AD, do the actions specified in
+paragraphs (a)(1) and (a)(2) of this AD.
+(1) Install a speedbrake limitation placard on the P1-1 and P3-3 panel assemblies per Figure 1 or
+Figure 2. as applicable. of paragraph 3.B., "Work Instructions." of the Accomplishment Instructions
+of Boeing Alert Service Bulletin 737-11A1109, dated March 28, 2002.
+(2) Revise the Limitations Section of the FAA-approved AFM to include the following statement
+(this may be accomplished by inserting a copy of this AD in the AFM): "In flight, do not extend the
+speedbrake lever beyond the FLIGHT detent."
+Modification
+(b) For Model 737-600, -700, -700C, and -800 series airplanes having line numbers 1 through
+1174 inclusive: Before the accumulation of 18,000 total flight cycles, or within 2 years after the
+effective date of this AD, whichever occurs first, modify the elevator and elevator tab assemblies
+(including installation of a new clevis fitting and a new tab mechanism on the horizontal stabilizer
+and. for certain airplanes, examination of the hinge plates on the stabilizer trailing edge to make sure
+the specified hinges are installed; changes to the seals in the balance bays; and installation of new
+5

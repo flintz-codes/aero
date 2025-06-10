@@ -1,0 +1,101 @@
+VT-SPW
+spiceJet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO. / PAGE
+SCHEDULE
+ENGINEERING
+ITEM
+ORDER NO.
+SP EO-01-78-441R6
+The step numbers shown beow agree with the numbers shown in the circle symbols in the figure. The QTY
+numbers shown below are the number of parts necessary for each thrust reverser hall.
+Step
+Task
+Narive
+Identification
+Qty
+More Data
+1
+Apply
+FIREWALL SEA_ANT
+BMS5-63, TYPE II
+-
+Refer to SOPM20-
+CLASS B- (BMS5-
+50-19 as
+63, TYPE I, CLASS B.
+ed procedure.
+4 optional)
+2
+Install (New)
+ROLT
+RACR37NY(
+11
+Wet install Refer in
+SOPM 20-50-19,
+Method 3 as an ac-
+cepted procedure.
+SHIM, HEAT SHIELD
+315A2112-()
+1
+Install (Kept)
+If upper compres-
+sionape made ion
+titanium is instaled.
+(a) (g) (i)
+1
+Upper shim. Reter to
+Install (New)
+SHIM
+315A2112-11
+SOPM 20-50-20 as
+accepted procedure.
+(b) (e) (f)
+SHIM
+315A2112-10
+1
+Lower shim. Refer to
+Install (New)
+SOPM 20-50-20 -
+accepted procedure.
+(b) (e) (f)
+Install (Kept)
+I PPFR COMPRES
+315A211R-
+1
+If unserviceable, re-
+SION PAD NO. 3
+place with new com-
+pression pad
+315A2118-12 5
+315A2118 22. (d) (i)
+Install (New)
+NUT, SCLF-LOCK,
+DACN10YT3C0
+11
+Use for aluminum
+compression pad
+HEX
+only (c)
+Install (New)
+M/T,SAFJOCK
+RACN10YT3CSA
+11
+lise for titanium
+HEX
+compression pad
+only (c)
+FICURE 10: INSTALLATION OF THE NUMBER 2 AND NUMBER 3 UPPER COMPRESSION PADS-RICHT
+THRUST REVERSER HALF
+(SHEET 4 OF 6)
+SOURCE
+SpiceJet FLEET EFFECTIVITY
+VT-SPF, VT-SPJ, VT-SPK, VT-SPL, VT-SPM, VT-SGE,
+Page 42 of 88
+VT-SPW, VT-SGS, VT-SGL, VT-SGO, VT-SGJ, VT-SGK
+Form No. SJ / TSD / 036R1
+Procedure Ref.: GEP-05

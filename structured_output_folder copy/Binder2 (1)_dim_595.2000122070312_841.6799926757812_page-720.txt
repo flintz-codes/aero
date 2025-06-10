@@ -1,0 +1,40 @@
+spicejet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO. / PAGE
+SCHEDULE
+ENGINEERING
+VT-SPW
+18 of 36
+ITEM
+ORDER NO.
+SP EO-01-28-292
+STEP
+TASK
+NAME
+IDENTIFICATION
+QTY
+MORE DATA
+(g)
+The Actuatoris not installed at this time
+If you had to repair the electrical bonding of the Adapter Pare as given IT Figure 3. the maximum
+resistance permitted between the actuator mounting surface or the Index Plate and the spar well is
+0.001 Ohms (1.0 milliohms)
+ih)
+If you didnot have to repair the electrical bonding of the Acapter Plate as given in = gure 3 the
+maximum resistance permitted between the actuator mounting surface on the Index Plate and the
+spar web is 0 002 Ohms (2 0 milliohms).
+After testing is complete re-apply chemical conversion coaing to areas disturbed by the test
+(i)
+probes. Refer to SOFM 20-48-03.as an accepted procedure For areas disturbed by the test probes
+where the original finish included BMS 10-20 Type 11. also repair the BMS 10.20 Type II Refer to
+SOPM 20-60-02 as an accepted procecure.
+FIGURE 4: INSTALLATION OF THE VAL.E SCULATOR INDEX PLATE LEFT ENGINE FUEL SHUTOFF
+(SPAR) VALVE ACTUATOR RIGHT ENGINE FUEL SHUTOFF (SPARKVALVE ACTUATOR AND CROSS.
+FEED WALVE ACTUATOR
+February 15 Last
+SHEET 3 OF 3)
+YC465 YD331 YK64A YK642 YK941

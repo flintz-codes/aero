@@ -1,0 +1,59 @@
+Go Airlines (India) Ltd
+C-1.1stfloor.WIC.P.R. Marg Worli,
+UNSERVICEABLE
+TAG ID#: NA
+Part#:
+Serial#/Lot#:
+Part Description: BRAKE ASSY-MLG
+C20225510
+1409C20780
+Lot Qty:
+ATA #: 32-42
+Comp. Id: COMP-130407
+Shelf Life Expiry Date:
+Ownership: (Owned)
+Warrant: like
+Removed From Position:
+Ex-NHA Part#
+Ex-Aircraft: VT-WJQ
+CR#: CREP-083591-2112
+Package/WO#: NHC-063821-2012
+32-2642GM-RHMLG.BRAKE
+4
+Ex-NHA Serial#
+Station/WC#: HYD/AP-HYD-LINE
+TSN: 4354.6500
+TSO:
+TSI:
+Removal Type: Unscheduled
+Date & Time: 2021-12-21 03:59:00
+GOW
+Sign
+CSN: 2739.000
+CSO:
+CSI:
+Approval No: N/A
+Removed By: Abrar Pawaskar (10010)
+Raghazzer
+Removal Remarks: WORN OUT
+Discrepancy#: DR-506485-2112
+Removal Reason: WORN OUT
+Repeat Discrepancy: No
+Incidana No
+Caused Delay: No
+Discrepancy Description: DURING WALKAROUND FOUND #4 BRK ASSY WORN OUT
+Installed Part#:
+Installed Serial#/Lot#:
+Comp. ID: COMP-39017
+Date & Time: 2021-12-21 04:00:00
+C20225510
+26344
+Lot Qty:
+cow
+Sign:
+Approval No:
+050
+Installed By: RAGHUVEER TELOGU (00271)
+THIS CERTIFICATE IS ISSUED IN RESPECT OF AN AIRCRAFT / AIRCRAFT COMPONENT / ITEM OF EQUIPMENT AFTER CARRY IT THE INSPECTION
+OPERATION. TEST AND CERTIFYING THAT WORK HAS BEEN PERFORMED IN ACCORDANCE WITH THE AIRWORTHINESS REQUIREMENT STIPULATED BY
+DGCA

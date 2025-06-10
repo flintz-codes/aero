@@ -1,0 +1,67 @@
+JOB CARD
+REV DATE: May
+AIRBUS
+01/2022
+AMM - GOW - A318/A319/A320/A321
+TASK:
+32-41-11-400-006-A
+Tail Number - MSN -
+TITLE:
+32-41-11-04 CONF 00
+FSN:
+VT-WJQ - 09375 - 142
+32-41-11-400-006-A - Installation of the MLG Wheel
+MECH.
+INSP.
+4.
+Procedure
+Ref. Fig. Main Gear Wheel
+NOTE:
+If the wheel has a pressure-sensor seal cap, make sure that the
+N/A
+seal cap is correctly installed and safetied with a nut and a cotter
+pin.
+NOTE: Because of the aircraft configuration, the installation of the Tire
+Pressure Indicating System (TPIS) balance weight changes: If the
+aircraft has the TPIS and the Brake Cooling Fan (BCF)/Universal
+Brake Cooling Fan (UBCF), no TPIS balance weight is installed on
+the wheel rim. The balance weight is part of the BCF/UBCF
+assembly (brake-fan shroud support), refer to the BCF/UBCF
+N/A
+Component Maintenance Manual (CMM). If the aircraft has the TPIS
+only (no BCF/UBCF): * On the A321 aircraft, you must install the
+TPIS balance weight on the wheel rim, refer to the wheel CMM. *
+On the A318-A319-A320 aircraft, you must install the TPIS balance
+weight on the hubcap, refer to the hubcap CMM. If the aircraft has
+no TPIS, no TPIS balance weight is necessary.
+SUBTASK 32-41-11-210-075-A
+A.
+Tires of Different Type
+(1)
+Obey the tire mixability precautions Ref. AMM TASK
+32-41-00-910-001.
+SUBTASK 32-41-11-560-070-X
+B.
+Preparation of the Wheel before Installation
+(1)
+Make sure that the wheel for installation has the same type of
+tire (radial or cross-ply) as the other wheel on the MLG.
+3
+NOTE: The tire interchange is not permitted.
+(2)
+Make sure that the parts retained from the removed component
+are clean and in the correct condition.
+(3)
+Clean the component interfaces and the adjacent area.
+$
+JCP Title: MLG WHEEL
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 6 of 18
+INSTALLATION
+PRINT DATE: Jul 17/2022
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+GOW
+317
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+RELEASE TO SERVICE

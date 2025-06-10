@@ -1,0 +1,58 @@
+Go Airlines (India) Ltd
+C-1,1st floor.WIC.P.B Marg Worli.
+UNSERVICEABLE
+TAG ID#: PT-000300-0702
+Part#:
+Serial#/Lot#:
+Part Description: BATTERY
+3214-31
+871371
+Lot Qty:
+ATA #: 33-51
+Comp. Id: COMP-154430
+Shelf Life Expiry Date: 2027-01-12
+Ownership: (Owned)
+Warranty Upto:
+Removed From Position:
+Ex-NHA Part#: 3214-62-10
+Ex-Aircraft: VT-WJQ
+CR#: CREP-104641-0506
+Package/WO#: 2022-004803
+EPSU-BATTERY
+Ex-NHA Serial#: 170330
+Station/WC#: AMD / GJ-AMD-LINE
+TSN: 1355.4666
+TSO:
+TSI: 705.20
+Removal Type: Scheduled
+Date & Time: 2022-06-05 19:49:16
+Sign
+GOW
+CSN: 767.0000
+CSO:
+CSI: 475.00000
+Approval No: N/A
+Removed By: Alok Pareek (15496)
+379
+Removal Remarks: CAPACITY TEST
+Discrepancy#:
+Removal Reason: capacity test
+Repeat Discrepancy: NIL
+Incident: NIL
+Caused Delay: NIL
+Discrepancy Description:
+Installed Part#:
+Installed Serial#/Lot#:
+Comp. ID: COMP-166926
+Date & Time: 2022-06-05 19:50:00
+3214-31
+909463
+Lot Qty:
+Sign:
+Approval No:
+Installed By: Alok Pareek (15496)
+GOW
+379
+THIS CERTIFICATE IS ISSUED IN RESPECT OF AN AIRCRAFT /AIRCRAFT COMPONENT / ITEM OF EQUIPMENT AFTER CARRYING OUT THE INSPECTION
+OPERATION, TEST AND CERTIFYING THAT WORK HAS BEEN PERFORMED IN ACCORDANCE WITH THE AIRWORTHINESS REQUIREMENT STIPULATED BY
+DGCA

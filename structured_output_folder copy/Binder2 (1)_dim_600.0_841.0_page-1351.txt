@@ -1,0 +1,87 @@
+paspicejet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO. / PAGE
+SCHEDULE
+ENGINEERING
+VT-SPW
+ITEM
+ORDER NO.
+SP EO-01-27-684
+TECH
+A.M.E
+DATE
+(2) Do a general visual inspection of the area under, on, and around the
+Stabilizer Trim Actuator to see if grease is escaping from Ball Nut. Large
+C
+A
+amounts of grease present around the Stabilizer Trim Actuator indicate that a
+21/01/13
+MGAT
+faulty seal or lifted return tube may be present on the Ball Nut.
+018
+NOTE: If a large amount of grease is present due to a faulty seal or
+lifted/leaking return tube, repair/replace the Stabilizer Trim Actuator in
+Q
+A
+21/01/13
+accordance with Figure 3.
+MGAT
+018
+FOUND SATISFACTORY
+Observation:
+(3) Do a detailed inspection of the grease on and around the Ballscrew and
+Ball Nut for existence of metallic particles, other solid particles, and
+I
+A
+21/01/13
+corrosion products in the grease. If metallic particles, or other solid
+particles, or corrosion products are found in the grease, Repair/Replace
+MGAT
+the Stabilizer Trim Actuator in accordance with Figure 3.
+018
+NOTE: Metallic particles in the grease may be an indication of degradation of
+the balls in the Ball Nut.
+FOUND SATISFACTORY
+Observation:
+(4) Check if any of the Ball Nut ball bearings are found in the vicinity of the
+e
+A
+21/01/13
+Ball Nut, on the Ballscrew, or directly below the Stabilizer Trim Actuator. If
+Ball Nut ball bearings are found Repair/Replace the Stabilizer Trim
+MGAT
+Actuator in accordance with Figure 3.
+018
+NOTE: The Ball Nut ball bearings used inside the 737 Ball Nut are
+Approximately 0,218 inch diameter.
+Observation:
+FOUND SATISFACTORY
+(5) Remove any old grease and dirt from the Ballscrew threads by wiping
+them with a clean, dry, non-abrasive cloth.
+C A 21/01/13
+MGAT
+(6)Do a detailed inspection of the Ball Nut Tube Retainers for deformation and
+018
+corrosion or lifted Return Tubes. If the Ball Nut Tube Retainers have
+deformation or corrosion or the Return Tubes are lifted, Repair/Replace the
+Stabilizer Trim Actuator in accordance with Figure 3.
+Observation:
+FOUND SATISFACTORY
+e
+A
+21/01/13
+MGAT
+MROM9
+018
+(7) Do a detailed inspection of the Ballscrew for the following problems in
+accordance with Figure 1:
+SpiceJet FLEET EFFECTIVITY
+SOURCE
+All
+Page 3 of 19
+Procedure Ref.: GEP-05
+Form No. SJ / TSD / 036RI

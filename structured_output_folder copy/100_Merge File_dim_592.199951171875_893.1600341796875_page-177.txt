@@ -1,0 +1,46 @@
+REV DATE: Aug
+JOB CARD
+AIRBUS
+01/2021
+AMM - GOW - A318/A319/A320/A321
+TASK:
+32-42-27-000-001-A
+Tail Number - MSN -
+TITLE:
+32-42-27-04 CONF 00
+FSN:
+VT-WJQ - 09375 - 142
+32-42-27-000-001-A - Removal of the Brake
+MECH.
+INSP.
+(7)
+Remove the nuts (8) with the ADAPTOR (M46292) or with the
+ADAPTOR - BRAKE UNIT NUT (98D32403005001) or with a
+p
+n
+SOCKET - STANDARD, LARGE and remove the washers (7).
+(8)
+Remove the brake unit (1) with the CRANE 100KG (220 LB)
+a
+and the HOISTING DEVICE (F27220000) or HANDLING TOOL
+(1324A).
+1
+(9)
+If necessary, remove the brake temperature sensor Ref. AMM
+TASK 32-47-15-000-001 and retain it for installation on the new
+y
+n
+brake unit.
+NOTE:
+If you send the brake unit (1) to the workshop, it is
+x
+necessary to send the nuts (8), bolts (12) and
+washers (7) with it.
+JCP Title: Removal of the Brake
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 6 of 7
+PRINT DATE: Oct 18/2021
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+RELEASE TO SERVICE

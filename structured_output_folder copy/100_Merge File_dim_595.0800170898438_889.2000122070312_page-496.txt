@@ -1,0 +1,99 @@
+GO AIRLINES (INDIA) LTD.
+CAMO APPROVAL:Q3/GOAIR/CAMO/2941
+MG AOP S-18/2005
+MUMBAI
+CAR 145 Approval: Q-/GOAIR/4556
+WORK ORDER
+WO. NO.
+MNT-028068-2604
+ISSUED BY
+DATE
+A/C REG.
+MSN
+AIRCRAFT TYPE
+STATION
+Rajan Sabharwal
+26/4/2022
+VT-WJQ
+09375
+A320-271N
+DELHI
+Due By
+Man Hrs
+Date
+Hrs.
+Cycles
+To Do On Or Before
+Est. M Hrs.
+Elapsed Time
+Start Date
+Start Time
+26/4/2022
+1.00
+Sign
+S/N
+Description/Discrepancy/Action Details
+(Refer Given/Detailed Information if Any)
+AME and
+Tech
+Authorization #
+MPD Item #
+AMM Ref #
+D
+TASK #
+DR-529500-2304
+Position Code
+Part No
+Rajan
+E
+Serial No
+S
+LH LANDING LIGHT U/S
+Sabharwal
+C
+for
+1
+City
+LH LANDING LIGHT REPLACED AS PER AMM 33-42-11-000-001-A AND AMM
+BALWINDER
+GOW/413
+A
+33-42-11-400-003-A REV 58 DT 01 FEB 22 POST INSATALLATION CHECK CARRIED OUT
+SINGH
+C
+FOUND SATISFACTORY. MEL REVOKED AIRCRAFT NORMALISED.
+T
+OFF P/N 727-1213-03
+OFF S/N S19253424
+ON P/N 727-1213-04
+ON S/N S17385312
+GR# GRPO-033445-2022
+NOTE 1: CRITICAL INDEPENDENT INSP - An independent inspection performed by_certifying staff shall be re-inspected by another
+authorised certifying staff.
+NOTE 2: CRITICAL IDENTICAL INSP - If similar identical tasks being performed on same aircraft, one certifying staff shall perform only
+one identical tasks during a particular maintenance check.
+Certifies that the work specified except as otherwise specified was carried out in accordance with CAR-145 and in
+respect to that work the aircraft/aircraft component is considered ready for release to service
+Maintenance Compliance
+CAT-A
+CAT- B1
+CAT- B2
+Station
+Date/Time
+Sign/Auth No
+Sign/Auth No
+Sign/Auth No
+DELHI
+26 Apr 2022 19:31
+UTC
+Gow413
+Action required by CAMO
+Engineering Planning/ Tech Services
+Tech Records
+Remarks
+Remarks
+Sign
+Sign
+L
+Form No GA/QD/FORM/14, Rev.6 Dated 04 August 2021
+Page 1 of 1

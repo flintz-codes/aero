@@ -1,0 +1,49 @@
+AIRWORTHINESS DIRECTIVE
+FINAL
+STATES
+OMINIST
+SILON
+Aircraft Certification Service
+U.S. Department
+Washington, DC
+of Transportation
+Federal Aviation
+Administration
+We post ADs on the internet at "av-info.faa.gov"
+The following Airworthiness Directive issued by the Federal Aviation Administration in accordance with the provisions of Title 14 of the Code of Federal Regulations (14 CFR) part 39.
+applies to an aircraft model of which our records indicate you may be the registered owner Airworthiness Directives affect aviation safety and are regulations which require immediate
+attention You are cautioned that no person may operate an aircraft to which an Airworthiness Directive applies except in accordance with the requirements of the Airworthiness
+Directive (reference 14 CFR part 39 subpart 39 3)
+2002-04-08 Boeing: Amendment 39-12665. Docket 2001-NM-37-AD.
+Applicability: Model 737-600, -700, -700C, and -800 series airplanes; line numbers 1 through
+295 inclusive; certificated in any category.
+Note 1: This AD applies to each airplane identified in the preceding applicability provision,
+regardless of whether it has been modified. altered, or repaired in the area subject to the requirements
+of this AD. For airplanes that have been modified, altered, or repaired SO that the performance of the
+requirements of this AD is affected, the owner/operator must request approval for an alternative
+method of compliance in accordance with paragraph (b) of this AD. The request should include an
+assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by
+this AD: and, if the unsafe condition has not been eliminated. the request should include specific
+proposed actions to address it.
+Compliance: Required as indicated. unless accomplished previously.
+To prevent loss of free movement of the rudder pedals, which could result in reduced
+controllability of the airplane, accomplish the following:
+Replacement of Fasteners
+(a) Within 12 months after the effective date of this AD, do a one-time general visual inspection
+of the fasteners on the upper cover assembly of the housing for the captain's and first officer's rudder
+pedals to determine if pan-head fasteners are installed, according to Boeing Alert Service Bulletin
+737-25A1383. Revision 1, dated December 2, 1999. Replace all pan-head fasteners on the upper
+cover assembly of the housing for the captain's and first officer's rudder pedals with improved (flush-
+head) fasteners. including countersink-drilling the fastener holes. according to the service bulletin.
+Note 2: For the purposes of this AD. a general visual inspection is defined as: "A visual
+examination of an interior or exterior area, installation, or assembly to detect obvious damage,
+failure. or irregularity. This level of inspection is made under normally available lighting conditions
+such as daylight, hangar lighting, flashlight, or drop-light, and may require removal or opening of
+access panels or doors. Stands, ladders, or platforms may be required to gain proximity to the area
+being checked."
+Alternative Methods of Compliance
+(b) An alternative method of compliance or adjustment of the compliance time that provides an
+acceptable level of safety may be used if approved by the Manager. Seattle Aircraft Certification
+Office (ACO). FAA. Operators shall submit their requests through an appropriate FAA Principal
+Maintenance Inspector, who may add comments and then send it to the Manager, Seattle ACO.
+4

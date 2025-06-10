@@ -1,0 +1,41 @@
+Bocing Model 737-600, -700. and -800 Series Airplanes
+Page 2 of 6
+Comments for inclusion in the Rules Docket must be received on or before June
+9, 2000.
+ADDRESSES: Submit comments in triplicate to the Federal Aviation
+Administration (FAA). Transport Airplane Directorate, ANM-114, Attention: Rules
+Docket No. 2000-NM-84-AD, 1601 Lind Avenue SW. Renton. Washington
+98055-4056
+The service information referenced in this AD may be obtained from Boeing
+Commercial Airplane Group. P.O. Box 3707, Seattle, Washington 98124-2207.
+This information may be examined at the FAA, Transport Airplane
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of the
+Federal Register, 800 North Capitol Street. NW., suite 700, Washington, DC.
+FOR FURTHER INFORMATION CONTACT: Kenneth W. Frey, Aerospace
+Engineer, Systems and Equipment Branch, ANM-130S, FAA, Transport Airplane
+Directorate Seattle Aircraft Certification Office. 1601 Lind Avenue, SW. Renton.
+Washington 98055-4056 telephone (425) 227-2673: fax (425) 227-1181.
+SUPPLEMENTARY INFORMATION: The FAA received several reports indicating
+that operators found loose nuts on the bolts that connect the lower input crank
+arm and the vernier adjustment input rod of the elevator power control unit (PCU).
+Apparently. maintenance had not been accomplished on the PCU's since delivery
+of the airplanes from the manufacturer. One of the loose PCU input rod nuts was
+found on a production airplane during a line check. The loose nuts reported had
+been finger tightened. but had not been properly torqued on the bolts.
+Locse nuts on the bolts of the input rod of the elevator PCU could result in the
+loss of pivot bolts on the crank arms of the elevator PCU's and consequent loss
+of control of the airplane during takeoff and landing.
+Explanation of Relevant Service Information
+The FAA has reviewed and approved Boeing Telegraphic Service Letter 737-SL-
+27-150. dated February 14. 2000, which describes procedures for a one-time
+visual inspection to determine if the nuts installed on the bolts at each end of the
+input rods connected to each elevator power control unit (PCU) are installed
+correctly. and tightening of any loose nut that is found
+Explanation of the Requirements of the Rule
+Since an unsafe condition has been identified that is likely to exist or develop on
+other Boeing Model 737-600, -700, and -800 series airplanes of the same type
+design. this AD is being issued to prevent loss of control of the airplane during
+takeoff and landing due to loose nuts on the bolts of the input crank arms of the
+elevator PCU. and consequent loss of pivot bolts on the PCU This AD requires a
+one-time general visual inspection to determine if the nuts installed on the bolts at
+each end of the input rods connected to each elevator PCU are installed correctly

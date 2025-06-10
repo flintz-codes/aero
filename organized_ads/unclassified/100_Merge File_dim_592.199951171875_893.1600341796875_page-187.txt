@@ -1,0 +1,84 @@
+REV DATE: Aug
+JOB CARD
+AIRBUS
+01/2021
+AMM - GOW - A318/A319/A320/A321
+TASK:
+32-42-27-400-001-A
+Tail Number - MSN -
+TITLE:
+32-42-27-04 CONF 0
+FSN:
+VT-WJQ - 09375 - 142
+32-42-27-400-001-A - Installation of the Brake
+MECH.
+INSP.
+(a)
+Make sure that the lockwires installed between the
+hydraulic quick-release couplings (2) and (14) and their
+brake hoses are in the correct condition.
+Y
+L
+(b)
+If the lockwire(s) is (are) loose or broken:
+of
+r
+WARNING:
+USE PROTECTIVE GOGGLES AND
+GLOVES WHEN YOU REMOVE OR
+INSTALL LOCKWIRE. EACH TIME
+YOU CUT LOCKWIRE, REMOVE AND
+DISCARD IT IMMEDIATELY. LOOSE
+If
+a
+LOCKWIRE CAN CUT YOU OR
+MAKE YOU BLIND, AND/OR CAN
+CAUSE DAMAGE.
+1
+Cut, remove and discard the lockwire(s).
+If
+N
+2
+Remove the hydraulic quick-release couplings
+(2) and (14) from their brake hoses.
+I
+a
+3
+Do a visual inspection of the hydraulic quick-
+release couplings (2) and (14) and the mating
+surfaces of the brake hoses for damage:
+If there is no damage, install the brake
+hose(s) again on the hydraulic quick-
+of
+h
+release coupling(s) (2) and/or (14) and
+torque the hydraulic quick-release
+coupling(s) (2) and/or (14) Ref. AMM
+TASK 32-11-12-960-801.
+I
+r
+If there is damage on the hydraulic
+a
+quick-release coupling(s) (2) and/or
+(14) and/or on the brake hose(s),
+of
+replace the two parts.
+Replace the hydraulic quick-release
+coupling(s) (2) and/or (14) Ref. AMM TASK
+32-11-12-960-801.
+p
+(c)
+Connect the hydraulic quick-release couplings (2) and
+(14) to the brake-unit self-sealing couplings (3) and
+P
+(13).
+h
+JCP Title: Installation of the Brake
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 8 of 15
+PRINT DATE Oct 18/2021
+CERTIFIES THAT THE TASK/INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+provide
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+RELEASE TO SERVICE

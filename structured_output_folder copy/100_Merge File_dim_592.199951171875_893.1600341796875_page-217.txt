@@ -1,0 +1,62 @@
+Go Airlines (India) Ltd
+C-1,1st floor.WIC,P.B Marg Worli,
+SERVICEABLE
+SERVICEABLE
+TAG ID#: NA
+Part#:
+Serial#/Lot#:
+Part Description: WHEEL ASSY-NLG
+3-1531-3
+E2160
+Lot Qty:
+Comp. Id: COMP-121006
+Ownership: (Owned)
+Hazmat ID:
+CRS#/Certificate#:
+Ref Doc#/Rev#:
+Certifying Remarks:
+WO#/RO#:
+HAI/ARC/21-04188
+Rev. Date:
+TYRE S/N-5186C573 R-2
+WC#/Rep.Vendor:
+Issue Date: 2021-10-16
+Cert. Type: CA FORM
+Shelf Life Expiry Date: N/A
+GDW
+TSN:
+TSO:
+Warranty Upto:
+Date & Time:
+AME Sign:
+333
+CSN: 1313.00000000
+CSO:
+Approval No: N/A
+Name: N/A
+know
+Warehouse#: DEL-W-SER
+Manf. Lot#:
+Source Order#: RO-018793-2021
+Inspected Date: 2021-10-16
+Receiving Insp Store
+Zone/Bin:
+Supplier#: 1002700556
+GR#: GRRO-018594-2021
+Inspect By: Deihi Engg Stores Delhi
+GOW
+Engg Stores (20000)
+430
+Last Removal Position:
+Ex-NHA Part#:
+Ex-Aircraft: VT-WGI
+Package/WO#: TRN-451158-D410
+32-2659-NLG.WHEEL.ASSY-LH
+Station/WC#: BLR
+moval Reason:-
+Ex-NHA Serial#:
+CR#: CREP-080679-0410
+vvORN TO LIMITS
+THIS CERTIFICATE IS ISSUED IN RESPECT OF AN AIRCRAFT / AIRCRAFT COMPONENT / ITEM OF EQUIPMENT AFTER CARRYING OUT THE INSPECTION,
+OPERATION, TEST AND CERTIFYING THAT WORK HAS BEEN PERFORMED IN ACCORDANCE WITH THE AIRWORTHINESS REQUIREMENT STIPULATED BY
+DGCA

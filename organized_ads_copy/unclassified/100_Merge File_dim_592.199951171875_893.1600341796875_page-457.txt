@@ -1,0 +1,67 @@
+JOB CARD
+REV DATE: May
+AIRBUS
+01/2022
+AMM - GOW - A318/A319/A320/A321
+TASK:
+33-51-38-400-002-A
+Tail Number - MSN -
+TITLE:
+33-51-38-04 CONF 00
+FSN:
+33-51-38-400-002-A - Installation of the Battery of the
+VT-WJQ - 09375 - 142
+Emergency Power Supply Unit (EPSU)
+MECH.
+INSP.
+** ON A/C FSN ALL
+TASK 33-51-38-400-002-A
+Installation of the Battery of the Emergency Power Supply Unit (EPSU)
+FIN: 10WL 11WL 12WL 13WL
+1.
+Reason for the Job
+Self explanatory
+2.
+Job Set-up Information
+A.
+Fixtures, Tools. Test and Support Equipment
+REFERENCE OTY
+D ESIGNATION
+No specific
+AR
+SAFETY CLIP - CIRCUIT BREAKER
+No specific
+1
+STEPLADDER 1.5 M (5 FT)
+W
+B.
+Work Zones and Access Panels
+ZONE/ACCESS
+ZONE DESCRIPTION
+FOR 10WL(POWER-EMERGENCY SUPPLY)
+221BC
+FOR 11WL(EPSU)
+241KW
+FOR 12WL(EPSU)
+242KW
+@
+&
+C.
+Referenced Information
+REFERENCE
+DESIGNATION
+Ref.
+Energize the Aircraft Electrical Circuits from
+24-41-00-861-002-A
+the External Power
+JCP Title: VT-WMQ
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 1 of 8
+PRINT DATE: Jun 05/2022
+Air
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+GOW
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+379
+RELEASE TO SERVICE

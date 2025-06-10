@@ -1,0 +1,39 @@
+Failures Detected During "Flight Control Check"
+(h) If any failure is detected during any "Pre-Flight Flight Control Module (FCM) Checks"
+specified in paragraph (e) of this AD. or during operation of the airplane, before further flight. replace
+the affected FCM with an FCM identified in paragraph (c)(1), (c)(2). or (c)(3) of this AD.
+Reporting Requirement
+(i) Submit a report of inspection findings to the Boeing Renton Airline Support Manager,
+Craig Blankenstein, 2925 South 112th Street, Seattle, Washington 98168: fax (206) 544-9698: at the
+applicable time specified in paragraph (i)(1) or (i)(2) of this AD. (The report must include the
+airplane line number and FCM P/N and S/N.) Information collection requirements contained in this
+AD have been approved by the Office of Management and Budget (OMB) under the provisions of the
+Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.) and have been assigned OMB Control
+Number 2120-0056.
+(1) For airplanes on which the inspection required by paragraph (a) of this AD is
+accomplished after receipt of AD 2002-19-51: Submit the report within 10 days after performing the
+inspection required by paragraph (a) of this AD.
+(2) For airplanes on which the inspection required by paragraph (a) of this AD has been
+accomplished before receipt of AD 2002-19-51: Submit the report within 10 days after receipt of AD
+2002-19-51.
+Part Installation
+(j) For all airplanes: After receipt of AD 2002-19-51, no person shall install an FCM having
+P/N 65-44891-7 with a S/N 8726 or greater, on any airplane, unless the compensator has been
+replaced with a compensator. approved for installation on FCM, P/N 65-44891-7. other than a
+compensator having P/N 10-60560-3 with S/N 20478A or greater.
+(k) After receipt of AD 2002-19-51. no person shall install a compensator having
+P/N 10-60560-3 with S/N 20478A or greater, on any FCM.
+Alternative Methods of Compliance
+(1) An alternative method of compliance or adjustment of the compliance time that provides
+an acceptable level of safety may be used if approved by the Manager, Seattle Aircraft Certification
+Office (ACO), FAA. Operators shall submit their requests through an appropriate FAA Principal
+Maintenance Inspector, who may add comments and then send it to the Manager, Seattle ACO.
+Note 3: Information concerning the existence of approved alternative methods of compliance
+with this AD. if any. may be obtained from the Seattle ACO.
+Special Flight Permits
+(m) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of
+the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location
+where the requirements of this AD can be accomplished, provided that the airplane is operated per the
+requirements of paragraphs (e) through (g) of this AD. and that there are no known FCM failures
+upon dispatch.
+7

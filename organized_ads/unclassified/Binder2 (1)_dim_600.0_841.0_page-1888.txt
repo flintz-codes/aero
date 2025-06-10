@@ -1,0 +1,51 @@
+spiceJet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO
+TASK NO. PAGE
+SCHEDULE
+ENGINEERING
+ITEM
+ORDER NO.
+SP EO-01-67-504R2
+STEP
+TASK
+NAME
+IDENTIFICATION
+QTY
+MORE DATA
+(g) After closing the blowout door and fuel shutoff valve access door, while the form-in-place gasket sealant
+is still wet, remove the sealant from the gaps between the edges of both doors and the surrounding structure,
+except for the area shown in View B and the aft edge of the fuel shutoff valve access door at this time; wait
+for the sealant to dry.
+(h) Manufacture a form-in-place gasket. Apply sealant smooth and flat at the fay surface of the door surround.
+After the door has latched close, continue to press up on the door with the same force used to latch the door.
+Continue this pressure for 15 seconds to allow full squeeze out of all the excess sealant. Do not press up with
+more force than required to latch the door or voids will be created in the form-in-place gasket and fail the leak
+test. After the sealant dries, cycle the fuel shutoff valve access door to break it free from the sealant. It may
+be necessary to use a skin wedge to break the door free. After cycling the door, the door should open without
+assistance. Make sure that the sealant bonds to the door structure and not the fuel shutoff valve access door.
+Refer to SOPM 20-50-19 as an accepted procedure. Petrolatum or Krytox may be applied to the doors as a
+post-cure lubricant. If petrolatum is applied to the doors after the sealant has cured, it must be wiped off with
+a lint-free rag leaving behind a thin film. If Krytox is used, it does not have to be wiped off.
+(i) Remove any sealant adhering to the doors and inspect the sealing surface in the door surround structure;
+small gaps or depressions of 1/4x1/8 inch in the form-in-place gasket are acceptable provided that they do not
+extend across the sealing surface from one side to the other. Use a plastic scraper to trim off any sealant that
+extends beyond the door openings.
+(j) Remove the strip of sealant from the crevice at the aft edge of the fuel shutoff valve access door immediately
+forward of the skin panel.
+(k) It is only necessary to re-apply the sealant if the sealant was damaged in this area during the removal of
+the gasket and parting agent. Allow the sealant in the machine gap to fully cure before applying the faying
+surface sealant. Refer to SOPM 20-50-19 as an accepted procedure
+(I) Petrolatum that meets W-P-236 specifications is an acceptable substitute for Frekote 710-NC. Apply a thin
+and continuous coat of Petrolatum to the interior door surface.
+FIGURE 8: LEFT WING - BLOWOUT DOOR AND FUEL SHUTOFF VALVE ACCESS DOOR - SEALANT
+APPLICATION
+(SHEET 4 OF 4)
+SpiceJet FLEET EFFECTIVITY
+ALL
+Page 37 of 90
+Procedure Ref. GEP-05
+Form No. SJ TSD 036R1

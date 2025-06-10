@@ -1,0 +1,34 @@
+Not Damaged and Not A Replaced or Repaired Pin or Bolt: Repetitive Inspections
+(b) If no damaged rear spar attach pin or front spar attach bolt is found during any detailed
+inspection required by paragraph (a) of this AD. and if that pin or bolt has not been replaced per
+paragraph (c) of this AD or repaired per Boeing Service Bulletin 737-55-1086. dated December 11.
+2003. repeat the detailed inspection required by paragraph (a) of this AD thereafter at intervals not to
+exceed 9.000 flight cycles or 36 months, whichever occurs first. for that pin or bolt only.
+Damaged Pin or Bolt: Corrective Actions
+(c) If any damaged rear spar attach pin or front spar attach bolt is found during any inspection
+required by this AD. before further flight. accomplish applicable corrective actions (e.g., repair:
+replacement of pin and/or bolt with a new one: and detailed inspection of a stripped pin for pitting.
+corrosion, or galling) per the Accomplishment Instructions of Boeing Service Bulletin 737-55-1086.
+dated December 11. 2003.
+Replaced or Repaired Pin or Bolt: Repetitive Inspections
+(d) If any rear spar attach pin or front spar attach bolt has been replaced with a new part per
+paragraph (c) of this AD. repeat the detailed inspection required by paragraph (a) of this AD
+thereafter at intervals not to exceed 15.000 flight cycles or 60 months. whichever occurs first, for the
+replaced pin or bolt only.
+(e) If any rear spar attach pin or front spar attach bolt has been repaired per paragraph (c) of this
+AD. repeat the detailed inspection required by paragraph (a) of this AD thereafter at intervals not to
+exceed 9.000 flight cycles or 36 months, whichever occurs first, for the replaced pin or bolt only.
+Alternative Methods of Compliance
+(:)(1) In accordance with 14 CFR 39.19. the Manager. Seattle ACO. FAA. is authorized to
+approve alternative methods of compliance (AMOCs) for this AD.
+(2) An AMOC that provides an acceptable level of safety may be used for any repair required by
+this AD, if it is approved by a Boeing Company Designated Engineering Representative who has
+been authorized by the Manager, Seattle ACO. to make such findings.
+Incorporation by Reference
+(g) The actions shall be done in accordance with Bocing Service Bulletin 737-55-1086. dated
+December 11. 2003. This incorporation by reference was approved by the Director of the Federal
+Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from
+Boeing Commercial Airplanes. P.O. Box 3707. Seattle, Washington 98124-2207. Copies may be
+inspected at the FAA. Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton. Washington;
+or at the Office of the Federal Register. 800 North Capitol Street, NW., suite 700. Washington. DC.
+7

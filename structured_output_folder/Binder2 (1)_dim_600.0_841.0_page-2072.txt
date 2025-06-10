@@ -1,0 +1,29 @@
+spiceJet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO. / PAGE
+SCHEDULE
+ENGINEERING
+ITEM
+ORDER NO.
+VT-SPW
+SP EO-01-52-1038
+02. During inspection if crack S found and top kit or ground time for rigging is not available then remove the door as
+per AMM and release the airplane to service under CDL.
+I. CHECKED BY TSD FOR OBSERVATION/FEEDBACK
+Checked
+Signature
+Date
+By
+Rijung
+Py
+15-02-2013
+SOURCE
+SpiceJet FLEET EFFECTIVITY
+ALL (Except VT-SGV & VT-SGW)
+Page 5 of 31
+Form No. SJ/TSD/036R
+Procedure Ref.: GEP-05

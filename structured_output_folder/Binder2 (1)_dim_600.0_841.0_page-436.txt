@@ -1,0 +1,62 @@
+inspection/test for proper heat treat. Use the accomplishment instructions of the applicable ASB listed
+in Table 1 of this AD.
+(i) Replace the hose with a serviceable hose if any B-nut is improperly heat treated.
+Credit For Previous Inspections
+(j) Previous inspections performed using ASB 737-26A1108. dated November 15. 2001. ASB
+737-26A1109. dated November 15. 2001. ASB 737-26A1109. Revision 1. dated November 7. 2002.
+ASB 747-26A2269. dated November 1. 2001. ASB 757-26A0043, dated November 15. 2001. and
+ASB 757-26A0044. dated November 15, 2001. comply with the inspection requirements of this AD.
+Alternative Methods of Compliance
+(k) The Manager, Boston Aircraft Certification Office. has the authority to approve alternative
+methods of compliance for this AD if requested using the procedures found in 14 CFR 39.19.
+Material Incorporated by Reference
+(1) The Director of the Federal Register approved the incorporation by reference of the
+documents listed in the following Table 2 in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
+You can get a copy from Boeing Commercial Airplane Group. PO Box 3707, Seattle, Washington
+98124-2207. You can review copies at the FAA, New England Region, Office of the Regional
+Counsel. 12 New England Executive Park. Burlington. MA: or at the Office of the Federal Register,
+800 North Capitol Street, NW. suite 700. Washington. DC.
+TABLE 2.-INCORPORATION BY
+REFERENCE
+Alert service bulletin
+Page number(s)
+Revision
+Date
+737-26A1108
+ALL
+I
+June 27, 2002.
+Total Pages: 48
+737-26A1109
+ALL
+2
+May 8. 2003.
+Total Pages: 68
+747-26A2269
+ALL
+I
+June 6. 2002.
+Total Pages: 36
+757-26A0043
+ALL
+I
+November 14. 2002.
+Total Pages: 40
+757-26A0044
+ALL
+I
+November 14. 2002.
+Total Pages: 34
+767-26A0121
+ALL
+Original
+December 19. 2001.
+Total Pages: 20
+Related Information
+(m) None.
+Issued in Burlington. Massachusetts. on November 10. 2003.
+Francis A. Favara,
+Acting Manager Engine and Propeller Directorate, Aircraft Certification Service.
+[FR Doc. 03-28730 Filed 11-18-03: 8:45 am|
+BILLING CODE 4910-13-P
+9

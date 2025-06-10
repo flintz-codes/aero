@@ -1,0 +1,77 @@
+REV DATE: May
+JOB CARD
+AIRBUS
+01/2022
+AMM - GOW - A318/A319/A320/A321
+TASK:
+33-51-38-000-002-A
+Tail Number - MSN -
+TITLE:
+33-51-38-04 CONF 00
+FSN:
+33-51-38-000-002-A - Removal of the Battery of the
+VT-WJQ - 09375 - 142
+Emergency Power Supply Unit (EPSU)
+MECH.
+INSP.
+REFERENCE
+DESIGNATION
+Ref.
+Energize the Aircraft Electrical Circuits from
+24-41-00-861-002-
+the APU
+H
+A01
+Ref.
+Energize the Aircraft Electrical Circuits from
+24-41-00-861-002-
+Engine 1(2)
+A02
+Ref. Fig. Battery of the EPSU
+FOR 10WL(POWER-EMERGENCY SUPPLY)
+Ref.
+Removal of the Ceiling Panels - Forward
+25-23-42-000-001-A
+Utility Area
+10
+FOR 11WL(EPSU)
+Ref.
+Removal of the Lower Sidewall Panels (Dado
+25-23-44-000-001-A
+Panels)
+FOR 12WL(EPSU)
+Ref.
+Removal of the Lower Sidewall Panels (Dado
+25-23-44-000-001-A
+Panels)
+FOR 13WL(EPSU)
+Ref.
+Removal of the Emergency Oxygen
+35-21-41-000-001-A
+Containers
+3.
+Job Set-up
+SUBTASK 33-51-38-860-060-D
+A.
+Aircraft Maintenance Configuration
+10
+(1)
+Energize the aircraft electrical circuits
+Ref. AMM TASK 24-41-00-861-002.
+(2)
+On overhead panel 25VU, make sure that EMER EXIT LT
+switch 4WL is in the OFF position.
+(3)
+On overhead panel 25VU, make sure that NO SMOKING
+switch 190RH is in the OFF position.
+JCP Title: VT-WJQ
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 2 of 5
+PRINT DATE: Jun 05/2022
+CERTIFIES THAT THE TASK/INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+THE FINAL MAINTENANCE RELEASE /CERTIFICATE OF
+An
+GOW
+RELEASE TO SERVICE
+379

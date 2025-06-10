@@ -1,0 +1,84 @@
+REV DATE: May
+JOB CARD
+AIRBUS
+01/2021
+AMM - GOW - A318/A319/A320/A321
+TASK:
+21-51-51-000-001-A
+Tail Number - MSN -
+TITLE:
+21-51-51-04 CONF 00
+FSN:
+21-51-51-000-001 A - Removal of the Pack Flow-Control
+VT-WJQ - 09375 - 142
+Valve/ Pack Flow-Control Unit
+MECH.
+INSP.
+REFERENCE
+DESIGNATION
+Ref.
+Removal of the Air Duct Upstream of the
+21-51-51-000-002-B
+Flowi Control Unit
+Ref.
+Attachment Components (In-Service Wear
+21-51-51-200-001-A
+Limits) - Flow Control Valve (Unit)
+Ref.
+Energize the Aircraft Electrical Circuits from
+24-41-00-861-002-A-
+the External Power
+Ref.
+Energize the Aircraft Electrical Circuits from
+24-41-00-861-002-
+the APU
+A01
+Q
+Ref.
+Energize the Aircraft Electrical Circuits from
+24-41-00-861-002-
+Engine 1(2)
+A02
+Ref.
+Removal of the Quick Release Access
+53-35-13-000-002-A
+Panels from the Belly Fairing Structure
+** ON A/C FSN 101-200
+Ref. Fig. Pack Flow-Control Valve
+ON A/C FSN ALL
+Ref. Fig. Attachment Components - Pack Flow-Control Valve
+3.
+Job Set-up
+SUBTASK 21-51-51-861-050-A
+A.
+Energize the aircraft electrical circuits Ref. AMM TASK
+24-41-00-861-002.
+A
+SUBTASK 21-51-51-865-071-A
+B.
+Open, safety and tag this (these) circuit breaker(s):
+D
+A
+PANEL
+DESIGNATION
+FIN
+LOCATION
+121VU
+APU/APU/CTL
+2KD
+L42
+121VU
+APU/ECB/SPLY
+1KD
+L41
+JCP Title: FCV
+CERTIFICATE OF TASK INSPECTION COMPLETION:
+Page 2 of 10
+PRINT DATE: May 30/2021
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+fould
+THE FINAL MAINTENANGE RELEASE / CERTIFICATE OF
+RELEASE TO SERVICE
+GOW
+39

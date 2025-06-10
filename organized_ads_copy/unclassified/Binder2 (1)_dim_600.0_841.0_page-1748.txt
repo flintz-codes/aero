@@ -1,0 +1,143 @@
+spiceJet
+Engineering Order
+DATE
+REGNPIN
+STATION
+WORK ORDER NO.
+TASK NO./PAGE
+SCHEDULE
+ENGINEERING
+ITEM
+ORDER NO.
+SP EO-01-78-778 R1
+TECH
+A.M.E
+DATE
+b. If damage is found or if upper fire seal did not pass the stiffness check, do the
+steps that follow.
+}ww
+AC
+24/01/13
+MGAT
+(1) Remove the upper fire seal in accordance with FIGURE 3.
+071
+(2) Remove the fasteners for the upper fire seal retainer in accordance with
+Flyca
+FIGURE 6.
+(3) Install a new bracket behind the upper fire seal retainer in accordance with
+John
+176
+MGAT
+027
+FIGURE 7.
+73rm
+(4) Install a new upper fire seal in accordance with FIGURE 9.
+1.76
+MGAT
+(a) If there are missing vent holes on the new fire seal, drill the necessary
+}win
+/A
+027
+vent holes in accordance with FIGURE 5.
+nc
+MGAT
+24/01/13
+3. Close the left thrust reverser half on engine 1 or engine 2. Refer to 737-600/700/800
+Mr.
+071
+4/01/13
+/900 AMM 78-31-00 as an accepted procedure.
+MGAT
+071
+4. Do the Thrust Reverser Adjustment. Refer to 737-600/700/800/900 AMM 78-31-01
+N/A
+BC
+24/01/13
+as an accepted procedure.
+MGAT
+071
+5. Put the airplane back to a serviceable condition.
+me
+BC
+26/01/13
+MGAT
+PART 2 WORK INSTRUCTIONS ( FOR # 2 ENGINE ONLY)
+07
+1. Open the right thrust reverser half on engine 1 or engine 2. Refer to 737-
+mc
+28/01/13
+600/700/800 /900 AMM 78-31-00 as an accepted procedure.
+MGAT
+071
+NOTE: It is not necessary to remove the thrust reversers but access will be better if
+Be
+20/01/13
+the thrust reversers are removed.
+MGA
+071
+2. Do a general visual Inspection and stiffness check of the upper fire seal in
+M
+20/01/13
+accordance with FIGURE 10.
+MGA
+071
+a. If no damage is found and if upper fire seal passes the stiffness check, do the
+me
+20/01/13
+steps that follow.
+MGA
+071
+(1) Carefully remove the upper piece of the fire seal from the thrust reverser in
+Be
+00/01/13
+accordance with FIGURE 11.
+MGA1
+(2) Do a general visual inspection for any missing vent holes on the upper fire
+me
+07120/01/13
+seal in accordance with FIGURE 13.
+MGAT
+(a) If there are missing vent holes, drill the necessary vent holes in accordance
+N/A
+20/01/13
+with FIGURE 14.
+73.0
+killy
+0717
+25 15
+of
+(3) Remove the fasteners for the upper fire seal retainer in accordance with
+FIGURE 15.
+176
+IMGAT
+(4) Install a new bracket behind the upper fire seal retainer in accordance with
+Hg's
+circes,
+027
+of
+FIGURE 16.
+176
+(5) Install the upper fire seal in accordance with FIGURE 17.
+MGAT
+24/01/13
+OBSERVATION (IF ANY):
+NIL
+mc
+MGAT
+027
+071
+MGAT
+071
+SpiceJet FLEET EFFECTIVITY
+SOURCE
+VT-SPE, VT-SPF. VT-SPJ, VT-SPK, VT-SPL, VT-SPM, VT-
+BSB
+Page 4 of 49
+SPO, VT-SPP, VT-SPQ, VT-SPR, VT-SPS, VT-SPT, VT-SPU,
+737 78
+1086
+VT-SPW, VT-SGB, VT-SGC, VT-SGD, VT-SGE, VT-SGJ,
+Rev 1
+VT-SGK, VT-SGL, VT-SGO, VT-SGS
+Procedure Ref.: GEP-05
+Form No. SJ/TSD/036R1

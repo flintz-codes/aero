@@ -1,0 +1,42 @@
+Bocing Model 737 Series Airplanes
+Page 2 of 8
+FOR FURTHER INFORMATION CONTACT: Stephen Oshiro. Aerospace
+Engineer, Systems and Equipment Branch, ANM-130S, FAA, Seattle Aircraft
+Certification Office. 1601 Lind Avenue, SW. Renton, Washington 98055-4056;
+telephone (425) 227-2793. fax (425) 227-1181.
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal
+Aviation Regulations (14 CFR part 39) to include an airworthiness directive (AD)
+that is applicable to certain Boeing Model 737 series airplanes was published as a
+supplemental notice of proposed rulemaking (NPRM) in the Federal Register on
+June 5, 2001 (66 FR 30114). That action proposed to require inspection of wire
+bundles in four junction boxes in the main wheel well to detect chafing or damage,
+and follow-on actions.
+Comments
+Interested persons have been afforded an opportunity to participate in the making
+of this amendment. Due consideration has been given to the comments received.
+One commenter concurs with the proposed rule: another commenter indicates
+that it is already accomplishing the proposed inspections and has no further
+comments.
+Extend Compliance Time
+One commenter asks that we extend the compliance time for the proposed
+requirements from 12 to 18 months after the effective date of the AD. The
+commenter states that the 12-month compliance time is not a sufficient amount of
+time to perform the inspection (check) during its 737 fleet 'C-check cycle. The
+assessment was based on the amount of
+operational testing that would have to be performed on the systems that would be
+disturbed by the proposed inspections and modifications. The commenter
+recommends the compliance time be extended to 18 months to
+ensure the inspection may be accomplished during a scheduled maintenance
+visit
+The FAA agrees to extend the compliance time for the inspection to 18 months. In
+developing an appropriate compliance time for the inspection required by the final
+rule, we considered not only the degree of urgency associated with addressing
+the unsafe condition, but the practical aspect of accomplishing the inspection of
+the wire bundles on the Model 737 fleet in a timely manner. It is our intent in this
+final rule to allow the inspections to be done within the time
+frame of a regular maintenance interval. We took the commenter's
+recommendations into account, as well as the time necessary to do the specified
+actions. and we find that an 18-month compliance time should correspond with
+the regular maintenance schedules of the majority of affected operators. An
+extension of the compliance time to 18 months will not adversely affect safety.
+Paragraph (a) of the final rule has been changed accordingly.

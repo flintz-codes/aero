@@ -1,0 +1,47 @@
+Boeing Model 737, 757, and 767 Series Airplanes
+Page 3 of 16
+installed in "sensitive" or "non-sensitive" applications.
+The FAA concurs with the commenters' request for clarification. This AD is
+intended to apply only to the valves in locations listed in the referenced service
+bulletins--that is, valves in "sensitive" applications. The FAA has revised
+paragraphs (a) and (b) of this AD accordingly and added a new note, Note 1, after
+the applicability statement to clarify this issue. (Subsequent notes have also been
+reordered.)
+Operators should note that, while the airplane manufacturer will issue new service
+bulletins with instructions for replacing valves in "non-sensitive" applications on
+the affected airplanes, at this time, the FAA does not plan to mandate replacing
+these valves.
+Request To Reference New Service Information
+Several operators request that the FAA revise the proposed AD to reference new
+service bulletins issued by Boeing.
+The FAA concurs with the commenters' request and--since the issuance of the
+supplemental NPRM--has reviewed and approved the following 10 new service
+bulletins:
+Boeing Alert Service Bulletin 737-29A1073. Revision 3. including Appendices A
+and B, dated December 2. 1999: This service bulletin revises Boeing Service
+Bulletin 737-29A1073, Revision 2, dated July 1. 1999. which was referenced as
+an appropriate source of service information in the supplemental NPRM. Revision
+3 describes procedures for repetitive operational checks of certain motor-operated
+hydraulic shutoff valves to detect malfunctioning on certain Boeing Model 737-
+100, -200, -300. -400. and -500 series airplanes. The procedures in this bulletin
+are essentially similar to those in Revision 2; however, this service bulletin
+removes all Boeing Model 737-600, 737-700, and 737-800 series airplanes from
+the effectivity listing. (Boeing Model 737-600, -700, and -800 series airplanes
+have been included in a new service bulletin, which is described below.) This
+service bulletin also references a new service bulletin, described below, that
+describes replacement of the subject valves with new, improved valves, which
+ends the need for the repetitive operational checks.
+Boeing Alert Service Bulletin 737-29A1081. including Appendices A and B. dated
+December 2. 1999: This service bulletin describes procedures for repetitive
+operational checks of certain motor-operated hydraulic shutoff valves to detect
+malfunctioning on certain Boeing Model 737-600, 737-700. and 737-800 series
+airplanes. These procedures are essentially the same as those described in
+Boeing Alert Service Bulletin 737-29A1073, Revision 2, for these airplanes. This
+service bulletin also references a new service bulletin, described below, that
+describes replacement of the subject valves with new, improved valves, which
+ends the need for the repetitive operational checks.
+Boeing Alert Service Bulletin 757-29A0048. Revision 3, including Appendices A
+and B, dated December 2, 1999: This service bulletin revises Boeing Service
+Bulletin 757-29A0048, Revision 2. dated July 1. 1999, which was referenced as
+http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAD.nsf/0/804B5BF45751950386
+11/19/2013

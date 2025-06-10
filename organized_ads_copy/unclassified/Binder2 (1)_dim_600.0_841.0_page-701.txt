@@ -1,0 +1,42 @@
+(1) For Model 737-600, -700, -700C. -800 and -900 series airplanes: Boeing Alert Service
+Bulletin 737-28A1207, dated February 15, 2007; and
+(2) For Model 757-200, -200PF, -200CB, and -300 series airplanes: Boeing Alert Service
+Bulletin 757-28A0088, dated January 25, 2007.
+Inspection and Related Investigative/Corrective Actions
+(g) Within 60 months after the effective date of this AD: Inspect the applicable motor-operated
+valves (MOVs) to determine whether an MOV with the affected part number identified in the
+Accomplishment Instructions of the applicable service bulletin is installed. A review of airplane
+maintenance records is acceptable in lieu of this inspection if the part number of the part can be
+conclusively determined from that review. Do all applicable related investigative and corrective
+actions before further flight. Do all actions in accordance with the Accomplishment Instructions of
+the applicable service bulletin.
+Revision of AWLs Section
+(h) Concurrently with the actions specified in paragraph (g) of this AD: Revise the AWLs
+section of the Instructions for Continued Airworthiness by incorporating the information specified in
+paragraphs (h)(1) and (h)(2) of this AD, as applicable. Accomplishing the revision in accordance with
+a later revision of the MPD document is an acceptable method of compliance if the revision is
+approved by the Manager, Seattle Aircraft Certification Office (ACO), FAA.
+(1) Section F., "AIRWORTHINESS LIMITATIONS-FUEL SYSTEM AWLs," of Boeing 737-
+600/700/700C/700IGW/800/900 MPD Document D626A001-CMR, Section 9, Revision November
+2006 R1, into the MPD to incorporate AWL No. 28-AWL-21, No. 28-AWL-22, and No. 28-AWL-
+24.
+(2) Section G., "AIRWORTHINESS LIMITATIONS-FUEL SYSTEM AWLs," of Boeing 757
+MPD Document D622N001, Section 9. Revision January 2007. into the MPD Document to
+incorporate AWL No. 28-AWL-23, No. 28-AWL-24, and No. 28-AWL-25.
+Alternative Methods of Compliance (AMOCs)
+(i)(1) The Manager, Seattle ACO, FAA, has the authority to approve AMOCs for this AD, if
+requested in accordance with the procedures found in 14 CFR 39.19.
+(2) To request a different method of compliance or a different compliance time for this AD,
+follow the procedures in 14 CFR 39.19. Before using any approved AMOC on any airplane to which
+the AMOC applies, notify your appropriate principal inspector (PI) in the FAA Flight Standards
+District Office (FSDO), or lacking a PI, your local FSDO.
+Material Incorporated by Reference
+(j) You must use the service information listed in Table 1 of this AD to perform the actions that
+are required by this AD, unless the AD specifies otherwise. The Director of the Federal Register
+approved the incorporation by reference of these documents in accordance with 5 U.S.C. 552(a) and
+I CFR part 51. Contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-
+2207, for a copy of this service information. You may review copies at the FAA, Transport Airplane
+Directorate, 1601 Lind Avenue SW., Renton, Washington; or at the National Archives and Records
+Administration (NARA). For information on the availability of this material at NARA, call 202-741-
+6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html
+7

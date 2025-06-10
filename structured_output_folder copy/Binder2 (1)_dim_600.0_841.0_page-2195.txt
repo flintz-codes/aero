@@ -1,0 +1,131 @@
+spiceJet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO. / PAGE
+SCHEDULE
+ENGINEERING
+VT-SPW
+ITEM
+ORDER NO.
+SP EO-01-53-949R1
+Code
+Name
+Identification
+Qty
+Hole Dia
+More Data
+G
+RIVET, UNIVERSAL
+BACR15FT6AD9C
+4
+0.191-0.202
+(a)
+HD
+RIVET, UNIVERSAL
+BACR15FT7AD9C
+-
+0.221-0.233
+Optional oversize fastener
+HD
+(a) (c)
+H
+RIVET, 100 DEG
+BACR15GF6D6
+3
+0.190-0.196
+(b)
+I
+RIVET, 100 DEG
+BACR15GF6D7
+4
+0.190-0.196
+(b)
+RIVET, 100 DEG
+BACR15GF707
+-
+0.223-0.229
+Optional oversize fastener
+(b) (c)
+J
+BOLT
+BAC830VT6K6
+4
+0.187-0.190
+(d)
+COLLAR
+BACC30BL6
+4
+BOLT, PROTRUDING
+BAC830NX6K6X
+-
+0.200-0.203
+Optional oversize fastener
+HD
+BAC830VT6KBX OP-
+(c) (d) (e)
+TIONAL)
+K
+H-LOK
+BAC830VT6K7
+6
+0.187-0.190
+(d)
+COLLAR
+BACC30BL6
+6
+BOLT, PROTRUDING
+BAC830NX6K7X
+-
+0.200-0.203
+Optional oversize fastener
+HD
+BAC830VT6K7X OP-
+(c) (d) (e)
+TIONAL)
+BOLT
+BAC830VT8K10
+2
+0.247-0.250
+(d)
+L
+COLLAR
+BACC308L8
+2
+BOLT, PROTRUDING
+BAC830MY8K10X
+-
+0.263-0.266
+Optional oversize fastener
+HD
+BACB30VT8K10X
+(c) (d) (f)
+OPTIONAL)
+(a) Over-drive to 1.4D.
+(b) Over-drive to 1.5D.
+(c) These oversized fasteners are supplied as substitutes for the nominal diameter fasteners for use at existing
+fastener locations as necessary. See Paragraph 2.C.1., Kits/Parts for quantities supplied.
+(d) Install wet with BMS 5-95 TYPE I CLASS B sealant. Refer to SOPM 20-50-19 as an accepted procedure.
+(e) It is acceptable to install a second oversize bolt of the same type in a 0.216-0.219 inch diemeter hole.
+(f) It is acceptable to install a second oversize bolt of the same type in a 0.278-0.281 inch diameter hole.
+The parts shown in the table below are provided as extra parts forthis figure.
+NAME
+IDENTIFICATION
+QTY
+MORE DATA
+RIVET
+BACR15FT6D5C
+6
+RIVET, UNIVERSAL HD
+BACR15FT6D6C
+3
+AGURE 17:STA 540 BULKHEAD CHORDS STRINGERS S-22L TO S-23L SKIN REPAIR - DOUBLER
+TRIPLER AND FILLER INSTALLATION
+(SHEET 7 OF a)
+SOURCE
+SpiceJet FLEET EFFECTIVITY
+Page 53 of 136
+Form No. SJ/TSD/036R1
+Procedure Ref.: GEP-05

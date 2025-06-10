@@ -1,0 +1,44 @@
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO. / PAGE
+SCHEDULE
+ENGINEERING
+VT-SPW
+ITEM
+ORDER NO.
+SP EO-01-78-778 R1
+The step numbers shown below agree with the numbers shown in the circle symbois in the figure. The QTY
+numbers shown below are the number of parts necessary for each engine.
+STEP
+TASK
+NAME
+IDENTIFICATION
+QTY
+MORE DATA
+1
+Install (Kept)
+FIRE SEAL
+S315T107-()
+1
+Refer to 737-
+600/700/800/900 AMM
+78-31-12 as an accepted
+procedure.
+FIGURE 8: INSTALLATION OF THE UPPER FIRE SEAL ON THE LEFT THRUST REVERSER HALF
+(SHEET 2 OF 2)
+SpiceJet FLEET EFFECTIVITY
+SOURCE
+VT-SPE, VT-SPF, VT-SPJ, VT-SPK, VT-SPL, VT-SPM, VT-
+BSB
+Page 26 of 49
+SPO, VT-SPP, VT-SPQ, VT-SPR, VT-SPS, VT-SPT, VT-SPU,
+737-78-
+VT-SPW, VT-SGB, VT-SGC, VT-SGD, VT-SGE, VT-SGJ,
+1086
+Rev. 1
+VT-SGK, VT-SGL, VT-SGO, VT-SGS
+Procedure Ref.: GEP-05
+Form No J/TSD/036RI

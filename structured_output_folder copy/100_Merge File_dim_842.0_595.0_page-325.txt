@@ -1,0 +1,72 @@
+REV DATE: May
+JOB CARD
+AIRBUS
+01/2022
+AMM - GOW - 1318/A319/A320/A321
+TASK:
+32-41-11-000-006-A
+Tail Number - MSN -
+TITLE:
+32-41-11-04 CONF 00
+FSN:
+VT-WJQ - 09375 - 142
+32-41-11-000-006-A - Removal of the MLG Wheel
+MECH.
+INSP.
+WARNING:
+MAKE SURE THAT THE AIRCRAFT IS STABLE AND
+DOES NOT MOVE DURING THE JACKING
+OPERATIONS.
+IF THERE IS UNWANTED MOVEMENT OF THE
+AIRCRAFT, THE LANDING-GEAR JACKING DOME
+CAN COME OFF THE JACK HEAD AND INJURY
+$
+AND/OR DAMAGE CAN OCCUR.
+(2)
+Do one of the steps that follow:
+(a)
+If you want to remove the MLG wheel from one of the
+two MLGs (LH or RH), lift the applicable MLG axle Ref.
+AMM TASK 07-12-00-582-002.
+$
+Make sure that you do not lift the two MLG
+axles at the same time.
+Make sure that you do not remove more than
+one MLG wheel at the same time.
+(b)
+If you want to remove the MLG wheel(s) from the two
+p
+MLGs (LH and RH), lift the aircraft on jacks Ref. AMM
+TASK 07-11-00-581-001.
+(3)
+Put the PARK BRK control switch to the ON position.
+(a)
+On panel 400VU, make sure that the brake pressure
+indication on the Yellow brake-pressure triple indicator
+$
+is correct.
+(b)
+If necessary, pressurize the brake accumulator with the
+Yellow hydraulic system Ref. AMM TASK
+29-10-00-863-002 or Ref. AMM TASK
+29-24-00-863-001.
+WARNING:
+DECREASE THE TIRE PRESSURE TO
+APPROXIMATELY 2 BAR (29 PSI) BEFORE YOU
+REMOVE THE WHEEL. THIS WILL PREVENT A
+POSSIBLE EXPLOSION.
+(4)
+Decrease the tire pressure as follows:
+$
+Ref. Fig. MLG Wheel
+JCP Title: MLG WHEEL
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 4 of 9
+REMOVAL
+PRINT DATE: Jul 17/2022
+CERTIFIES THAT THE TASK /INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+GOW
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+317
+RELEASE TO SERVICE

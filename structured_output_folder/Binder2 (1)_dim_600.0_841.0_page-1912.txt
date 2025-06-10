@@ -1,0 +1,144 @@
+spiceJet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO./PAGE
+SCHEDULE
+ENGINEERING
+ITEM
+ORDER NO.
+SP EO-01-57-504R2
+The step numbers shown below agree with the numbers shown in the circle symbols in the figure. The QTY
+numbers shown below are the number of parts necessary for one side of the airplane
+STEP
+TASK
+NAME
+IDENTIFICATION
+QTY
+MORE DATA
+1
+Clean
+SEAL RIB
+116A5508-10
+1
+(a)
+Clean
+Rib
+1
+Clean any sealant, if required,
+from the machined step in the
+rib just inboard of the end of the
+flame arrestor tube and look for
+blockages and clear prior to
+tube installation. (a)
+2
+Drill
+SEAL RIB
+116A5508-10
+1
+Diameter 0.511-0.521 inch
+hole.
+3
+Deburr
+SEAL RIB
+116A5508-10
+1
+4
+Apply
+CHEMICAL CON-
+TYPE 2, CLASS A
+1 oz
+Refer to SOPM 20-43-03 as an
+VERSION COAT-
+accepted procedure.
+ING
+5
+Apply
+PRIMER
+BMS 10-11, TYPE I
+1 OZ
+Refer to SOPM 20-41-02 as an
+accepted procedure.
+6
+Install (New)
+FLAME AR-
+116A5515-1
+1
+(b) (g)
+RESTOR TUBE
+Locate (New)
+CLAMP
+BACC10HM08P
+1
+(b)
+7
+Drill
+DOOR LAND AS-
+116A5507-10
+1
+(c)
+SEMBLY
+Countersink
+DOOR LAND AS-
+116A5507-10
+1
+100 degrees on exterior side of
+SEMBLY
+the door land panel.
+Deburr
+HOLE
+1
+-
+Apply
+CHEMICAL CON-
+TYPE 2, CLASS A
+1 oz
+Refer to SOPM 20-43-03 as an
+VERSION COAT-
+accepted procedure.
+ING
+8
+Install (New)
+CLAMP
+BACC10HM08P
+1
+-
+Install (New)
+BOLT, 100 DEG
+BACB30XD3K3
+1
+-
+SHEAR
+Install (New)
+WASHER
+NAS1149D0332J
+1
+-
+Install (New)
+NUT
+BACN10YR3CD
+1
+-
+9
+Apply
+SEALANT
+BMS 5-45, CLASS B-
+2 OZ
+Refer to SOPM 20-50-19 as an
+1/2
+accepted procedure. (d)
+10
+Identify
+SEAL R!B
+116A5508-10
+1
+(e)
+FIGURE 17: RIGHT WING - OUTBOARD STRAKELET BOX - MODIFICATION
+(SHEET 5 OF 6)
+SpiceJet FLEET Effectivity
+ALL
+Page 61 of 90
+Procedure Ref.: GEP-05
+Form No. SJ TSD 036R1

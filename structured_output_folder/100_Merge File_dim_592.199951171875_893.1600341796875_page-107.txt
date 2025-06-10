@@ -1,0 +1,73 @@
+JOB CARD
+REV DATE: Aug
+AIRBUS
+01/2020
+AMM - GOW - A318/A319/A320/A321
+TASK:
+23-73-34-400-001-B
+Tail Number - MSN -
+TITLE:
+23-73-34-04 CONF 00
+FSN:
+23-73-34-400-001-B - Installation of the Cabin
+VT-WJQ - 09375 - 142
+Intercommunication Data System (CIDS) Director
+MECH. INSP.
+** ON A/C FSN ALL
+TASK 23-73-34-400-001-B
+Installation of the Cabin Intercommunication Data System (CIDS) Director
+FIN: 101RH 102RH
+ok
+1.
+Reason for the Job
+Self explanatory
+2.
+Job Set-up Information
+A.
+Fixtures, Tools, Test and Support Equipment
+Q
+REFERENCE
+DESIGNATION
+HY
+No specific
+1
+ACCESS PLATFORM 2M (6 FT)
+B.
+Work Zones and Access Panels
+&
+ZONEJAGGESS
+ZONE DESCRIPTION
+127
+REAR AVIONIC COMPARTMENT
+128
+REAR AVIONIC COMPARTMENT
+824
+C.
+Referenced Information
+REFERENCE
+DESIGNATION
+Ref. 23-73-00-740-005-B
+Interface and Power-Up Test of the Cabin
+Intercommunication Data System (CIDS) through the CFDS
+Ref. 23-73-00-869-001-A
+OBRM - Download Procedure
+Ref. 24-41-00-861-002-A
+Energize the Aircraft Electrical Circuits from the External
+Power
+Ref. 24-41-00-861-002-A01
+Energize the Aircraft Electrical Circuits from the APU
+Ref. 24-41-00-861-002-A02
+Energize the Aircraft Electrical Circuits from Engine 1(2)
+Ref. 24-41-00-862-002-A
+De-energize the Aircraft Electrical Circuits Supplied from
+the External Power
+JCP Title: MCC-024228-1910
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 1 of 5
+PRINT> DATE Oct 19/2020
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+295
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+Louis
+RELEASE TO SERVICE

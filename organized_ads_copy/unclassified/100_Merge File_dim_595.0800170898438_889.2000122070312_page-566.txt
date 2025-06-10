@@ -1,0 +1,52 @@
+REV DATE: Nov
+JOB CARD
+AIRBUS
+01/2020
+AMM - GOW - A318/A319/A320/A321
+TASK:
+52-51-12-400-001-A
+Tail Number - MSN -
+TITLE:
+52-51-12-04 CONF
+FSN:
+52-51-12-400-001-A - Installation of the Electrical Release
+VT-WJQ - 09375 - 142
+Strike
+MECH. INSP.)
+(2)
+Adjust the electrical release strikes in accordance with the cockpit door position Ref.
+AMM TASK 52-51-00-820-001.
+SUBTASK 52-51-12-865-052-A
+C.
+Remove the safety clip(s) and the tag(s) and close this(these) circuit breaker(s):
+PANEL
+DESIGNATION
+FIN
+LOCATION
+122VU
+DOORS CKPT LOCK
+1MQ
+T13
+SUBTASK 52-51-12-720-052-A
+D.
+Do the operational test of the cockpit door lock system Ref. AMM TASK 52-51-00-710-002.
+5.
+Close-up
+SUBTASK 52-51-12-860-052-A
+A.
+Put the aircraft back to the serviceable condition.
+(1)
+Make sure that the cockpit door is closed.
+(2)
+De-energize the aircraft electrical circuits
+Ref. AMM TASK 24-41-00-862-002.
+JCP Title: VT-WJQ BOTT
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 4 of 6
+STRICKER RAI
+PRINT DATE: Jan 05/2021
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+THE FINAL MAINTENANCE RELEASE / CERTIFICATE OF
+Jose
+RELEASE TO SERVICE

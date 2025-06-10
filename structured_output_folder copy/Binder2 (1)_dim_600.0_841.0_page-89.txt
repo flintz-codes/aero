@@ -1,0 +1,34 @@
+Boeing Model 737-300, -400, -500, -600, -700, and
+Page 1 of 7
+RGL Home
+Airworthiness Directive
+Federal Register Information
+Header Information
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Part 39 [64 FR 25426 No. 91 05/12/99]
+Docket No. 99-NM-97-AD; Amendment 39-11166; AD 99-10-13
+RIN 2120-AA64
+Airworthiness Directives; Boeing Model 737-300, -400 -500, -600, -700, and -800
+Series Airplanes
+PDF Copy (If Available):
+Preamble Information
+AGENCY: Federal Aviation Administration, DOT
+ACTION: Final rule: request for comments
+SUMMARY: This amendment adopts a new airworthiness directive (AD) that is
+applicable to certain Boeing Model 737 series airplanes. This action requires
+repetitive inspections and functional tests of a trailing edge flap limit switch to
+verify proper operation, and replacement of the existing limit switch with a new
+limit switch, if necessary. This AD also requires modification of the stabilizer
+control system, which constitutes terminating action for the repetitive inspections
+and tests. This amendment is prompted by reports of uncommanded stabilizer
+trim motion due to failure of the trailing edge flap limit switch. The actions
+specified in this AD are intended to prevent such failure, which could result in
+uncommanded (nose down) stabilizer trim motion and consequent reduced
+controllability of the airplane.
+DATES: Effective May 27. 1999.
+The incorporation by reference of certain publications listed in the regulations is
+approved by the Director of the Federal Register as of May 27, 1999.
+Comments for inclusion in the Rules Docket must be received on or before July
+12, 1999.
+http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAD.nsf/0/1655B058DB3734B286... 11/18/2013

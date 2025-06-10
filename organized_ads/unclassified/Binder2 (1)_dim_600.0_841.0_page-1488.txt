@@ -1,0 +1,42 @@
+VT-SPW
+spicejet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO. /PAGE
+SCHEDULE
+ENGINEERING
+ITEM
+ORDER NO.
+SP EO-01-78-441R6
+Different aircraft Group configuration:
+GROUP
+CONFIGURATION
+DESCRIPTION
+1
+-
+Airplanes with line numbers 515 through 2229 without line numbers
+1981 and 2093 and with thrust reverser part number 315A2295-202
+or less.
+1
+Airplanes that use Top Kit 002A0004-20.
+2
+Airplanes that use Top Kit 002A0004-36.
+2
+-
+Airplanes with line numbers 1 through 514 and with thrust reverser
+part number 315A2295-202 or less.
+1
+Airplanes that use Top Kit 002A0004-20.
+2
+Airplanes that use Top Kit 002A0004-36.
+APPENDIX F
+SpiceJet FLEET EFFECTIVITY
+SOURCE
+VT-SPF, VT-SPJ, VT-SPK, VT-SPL, VT-SPM, VT-SGE,
+VT-SPW, VT-SGS, VT-SGL, VT-SGO, VT-SGJ, VT-SGK
+Page 82 of 88
+Procedure Ref.: GEP-05
+Form No. SJ/TSD/036R1

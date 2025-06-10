@@ -1,0 +1,84 @@
+REV DATE: May
+JOB CARD
+AIRBUS
+01/2022
+A.V.V.V - GOW :318/A319:A32011321
+TASK:
+32-41-1i-400-006-A
+DE Number - MSN
+TITLE:
+32-41-11-04CONF00
+FSN:
+VT-WIQ - 09375 - 142
+32-41-11-400-006-N - Installation of the MI.G Wheel
+MECH
+NSP
+FIG.ITEM
+DESIGNATION
+IPC-CSN
+4
+NJT
+32-11-13-01
+ITEM2:0
+5
+21
+32-11-13-03
+ITEM 200
+1.
+NUT
+32-11-13-03
+ITEM 210
+5
+PIV
+32-11-85-61
+ITEM 200
+4
+NUT
+32-11-85-61
+IIE M 210
+E
+Referenced information
+REFERENCE
+DESIGNATION
+Rei
+I liting for ^ coalt Maintenance Operations
+07-11-00-581-001-A
+Ref
+Lowering of the Aircraft 'or Maintenance
+07-11-00-586-002-A
+Operations
+Ref
+Jack ng of the Ma Landing Gear
+07-12-00-587-002-A
+Ref.
+Virogen Filing of the Tires
+12-14-32-614-001.A
+Rel.
+Pressurize the Yellow Hycrauld System with
+29-10-00-363-002-A
+a Hydraulic Ground Power-Cart
+Ref.
+Pressurize the Yellow Hydratic System with
+29-24-00-863-001-A
+the Electric Pump
+Ref.
+Removal of the Safety Devces from the
+32-00-00-081-001-A
+landing Gears
+Ref
+Installaton of the Safety Devces on the
+32-00-00-481-001-A
+Landing Gears
+Ref
+-unctional Creck of Tire Pressures
+32-41-00-210-003-A
+Installation of the MIC
+CERT ICAIF OF TASK ENSPICTION COMPL! TION
+Page 3 af 13
+PRINTDACE Jui :6/2022
+CERTIFIES THAT TESTASK INSPECTION HAS BEEN
+COMPLETED | ( ) THE REQUIRED STANDARDAND SUPPORTS
+THE FINAL VAINTENANCE RET FASH CERTICATI.O
+Gow
+REIF ASE 10 SERVIC
+434

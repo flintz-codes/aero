@@ -1,0 +1,69 @@
+spiceJet
+Engineering Order
+DATE
+REGN
+STATION
+WORK ORDER NO.
+TASK NO. / PAGE
+SCHEDULE
+ENGINEERING
+VT-SPW
+ITEM
+ORDER NO.
+SP EO-01-78-778 R1
+The step numbers shown below agree with the numbers shown in the circle symbols in the figure. The QTY
+numbers shown below are the number of parts necessary for each engine.
+Step
+Task
+Name
+Identification
+Qty
+More Data
+1
+Remove
+RIVET
+BACR15CE5( )
+3
+(a)
+2
+Remove
+BOLT
+BACB30VT()
+1
+Remove
+NUT
+BACN10ZV( )
+1
+3
+Clean
+RETAINER, FIRE
+315A2173-()
+1
+Refer to SOPM 20-
+SEAL SUPPORT
+30-03 as an accept-
+ed procedure.
+Clean
+INNER WALL
+315A2101-()
+1
+Refer to SOPM 20-
+30-03 as an accept-
+ed procedure
+(a) It is not necessary to remove the retainer, fire seal support completely.
+FIGURE 6: FASTENER REMOVAL OF THE RETAINER SUPPORT ON THE LEFT THRUST REVERSER
+HALF
+(SHEET 3 OF 3)
+SpiceJet FLEET EFFECTIVITY
+SOURCE
+VT-SPE, VT-SPF, VT-SPJ, VT-SPK, VT-SPL, VT-SPM, VT-
+BSB
+Page 21 of 49
+SPO, VT-SPP, VT-SPQ, VT-SPR, VT-SPS, VT-SPT, VT-SPU,
+737-78-
+1086
+VT-SPW, VT-SGB, VT-SGC, VT-SGD, VT-SGE, VT-SGJ,
+Rev. 1
+VT-SGK, VT-SGL, VT-SGO, VT-SGS
+Form No. SJ/TSD/036R
+Procedure Ref.: GEP-05

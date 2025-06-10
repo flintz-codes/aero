@@ -1,0 +1,1 @@
+{"Blocks": [{"BlockType": "PAGE", "Geometry": {"BoundingBox": {"Width": 1.0, "Height": 1.0, "Left": 0.0, "Top": 0.0}, "Polygon": [{"X": 1.1488448592444911e-07, "Y": 0.0}, {"X": 1.0, "Y": 4.593903213390149e-05}, {"X": 1.0, "Y": 1.0}, {"X": 0.0, "Y": 1.0}]}, "Id": "2c1715b7-8e1b-4282-a702-c48e63fce925", "Page": 1}]}

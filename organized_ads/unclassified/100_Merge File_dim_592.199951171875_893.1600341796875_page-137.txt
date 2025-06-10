@@ -1,0 +1,75 @@
+JOB CARD
+MPD-TASK:
+GOW - A318/A319/A320/A321
+AMM TASK 27-93-34-400-001-A
+AIRBUS
+27-93-34 PB 401
+TITLE:
+A/C Reg.:
+27-93-34-400-001-A - Installation of the ELAC
+VT-WJQ
+CARD:
+ZONE: 127, 128
+INTERVAL:
+SKILL:
+ACCESS: 822, 824
+MECH.
+INSP.
+** ON A/C ALL
+TASK 27-93-34-400-001-A
+Installation of the ELAC
+FIN : 2CE1 , 2CE2
+1. Reason for the Job
+Self explanatory
+A
+to
+2
+Job Set-up Information
+A. Fixtures, Tools, Test and Support Equipment
+REFERENCE
+QTY DESIGNATION
+No specific
+AR ACCESS PLATFORM 2M (6 FT) - ADJUSTABLE
+B. Work Zones and Access Panels
+A
+to
+ZONE/ACCESS
+ZONE DESCRIPTION
+127
+REAR AVIONIC COMPARTMENT
+128
+REAR AVIONIC COMPARTMENT
+822, 824
+C. Referenced Information
+REFERENCE
+DESIGNATION
+(Ref. 22-97-00-710-001-A).
+Operational Test of the LAND CAT III Capability
+** ON A/C 010-018, 101-200
+&
+(Ref. 27-93-00-610-001-A).
+Uploading of the ELAC Software
+** ON A/C ALL
+(Ref. 27-93-00-710-001-A).
+Operational Test of the Elevator and Aileron Computers
+(ELACs)
+(Ref. 27-93-34-000-001-A).
+Removal of the ELAC
+(Ref. 27-93-34-400-001-A).
+Installation of the ELAC
+(Ref. 31-32-00-860-006-A).
+Procedure to Get Access to the SYSTEM REPORT/TEST
+F/CTL Page
+(Ref. 52-41-00-410-002-A).
+Close the Avionics Compartment Doors after Access
+Elevator Aileron Computer (ELAC) SHEET 1
+JCP Title: temporary job card package
+CERTIFICATE OF TASK/INSPECTION COMPLETION:
+Page 5
+JCP Ref: reference
+DATABASE REV DATE: Aug 01/2020
+CERTIFIES THAT THE TASK/INSPECTION HAS BEEN COMPLETED TO THE REQUIRED
+PRINT DATE: Sep 29/2020 12:01
+STANDARD AND SUPPORTS THE FINAL MAINTENANCE RELEASE/CERTIFICATE OF RELEASE
+TO SERVICE
+181

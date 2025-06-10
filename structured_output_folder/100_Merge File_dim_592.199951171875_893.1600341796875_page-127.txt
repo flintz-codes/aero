@@ -1,0 +1,59 @@
+Go Airlines (India) Ltd
+C-1,1st floor. WIC P.B. Marg Worli,
+SERVICEABLE
+SERVICEABLE
+TAG ID#: NA
+Part#:
+Serial#/Lot#:
+Part Description: Cockpit Voice Recorder (SSCVR) with Datalink Recording
+980-6032-023
+CVR-06066
+Lot Qty:
+Comp. Id: COMP-074226
+Ownership: (PBH)
+Hazmat ID:
+CRS#/Certificate#:
+Ref Doc#/Rev#:
+Certifying Remarks:
+WO#/RO#:
+12345
+Rev. Date:
+WC#/Rep.Vendor:
+Issue Date: 1900-01-01
+Cert. Type: CAR 145 MAINTENACE ORG
+Shelf Life Expiry Date:
+N/A
+TSN:
+TSO:
+Warranty Upto:
+Date & Time:
+CSN:
+CSO:
+Approval No: N/A
+Name: N/A
+GOW
+AME Sign:
+212
+Warehouse#:
+Manf. Lot#:
+Source Order#:
+Inspected Date:
+Receiving Insp.Sign:
+Zone/Bin:
+Supplier#:
+GR#:
+Inspect By: N/A
+Last Removal Position:
+Ex-NHA Part#:
+Ex-Aircraft: VT-WJQ
+Package/WO#: TRN-468332-0912
+23-1RK-SSCVR
+Station/WC#: DEL / DL-DEL-LINE
+Removal Reason:-
+Ex-NHA Serial#:
+CR#: CREP-082800-0912
+DUE FOR DATA DOWNLOADING &
+READOUT DUE INCIDENT & FAULT:
+THIS CERTIFICATE IS ISSUED IN RESPECT OF AN AIRCRAFT/AIRCRAFT COMPONENT / ITEM OF EQUIPMENT AFTER CARRYING OUT THE INSPECTION,
+OPERATION, TEST AND CERTIFYING THAT WORK HAS BEEN PERFORMED IN ACCORDANCE WITH THE AIRWORTHINESS REQUIREMENT STIPULATED BY
+DGCA

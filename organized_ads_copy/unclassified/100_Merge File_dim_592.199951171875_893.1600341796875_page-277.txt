@@ -1,0 +1,85 @@
+JOB CARD
+REV DATE: May
+AIRBUS
+01/2022
+AMM - GOW - A318/A319/A320/A321
+TASK:
+32-41-11-400-006-A
+Tail Number - MSN -
+TITLE:
+32-41-11-04 CONF
+FSN:
+VT-WJQ - 09375 - 142
+32-41-11-400-006-A - Installation of the MLG Wheel
+MECH.
+INSP.
+EIG,HEM
+DESIGNATION
+POLGSN
+4
+NUT
+32-11-13-01
+ITEM 210
+5
+PIN
+32-11-13-03
+ITEM 200
+4
+NUT
+32-11-13-03
+ITEM 210
+5
+PIN
+32-11-85-61
+ITEM 200
+4
+NUT
+32-11-85-61
+ITEM 210
+E.
+Referenced Information
+REFERENCE
+DESIGNATION
+Ref.
+Lifting for Aircraft Maintenance Operations
+07-11-00-581-001-A
+Ref.
+Lowering of the Aircraft for Maintenance
+07-11-00-586-002-A
+Operations
+Ref.
+Jacking of the Main Landing Gear
+2
+07-12-00-582-002-A
+Ref.
+Nitrogen Filling of the Tires
+12-14-32-614-001-A
+Ref.
+Pressurize the Yellow Hydraulic System with
+29-10-00-863-002-A
+a Hydraulic Ground Power-Cart
+Ref.
+Pressurize the Yellow Hydraulic System with
+29-24-00-863-001-A
+the Electric Pump
+Ref.
+Removal of the Safety Devices from the
+32-00-00-081-001-A
+Landing Gears
+Ref.
+Installation of the Safety Devices on the
+32-00-00-481-001-A
+Landing Gears
+Ref.
+Functional Check of Tire Pressures
+32-41-00-210-003-A
+JCP Title: Installation of the MLG
+CERTIFICATE OF TASK / INSPECTION COMPLETION:
+Page 3 of 13
+PRINT DATE: Jul 23/2022
+Wheel
+CERTIFIES THAT THE TASK / INSPECTION HAS BEEN
+COMPLETED TO THE REQUIRED STANDARD AND SUPPORTS
+THE FINAL MAINTENANCE RELEASE/CERTIFICATE OF
+going
+RELEASE TO SERVICE
